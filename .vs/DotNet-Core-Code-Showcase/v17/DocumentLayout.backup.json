@@ -1,7 +1,68 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Github\\DotNet-Core-Code-Showcase\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5959814-A469-B722-CACF-0AE5A3B6C242}|ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\wpfconfigureawaitdemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C5959814-A469-B722-CACF-0AE5A3B6C242}|ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj|solutionrelative:configureawait\\wpfconfigureawaitdemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5959814-A469-B722-CACF-0AE5A3B6C242}|ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\wpfconfigureawaitdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C5959814-A469-B722-CACF-0AE5A3B6C242}|ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj|solutionrelative:configureawait\\wpfconfigureawaitdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\asynchttputils\\httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|solutionrelative:configureawait\\asynchttputils\\httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\asynchttputils\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|solutionrelative:configureawait\\asynchttputils\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\asynchttputils\\ihttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|solutionrelative:configureawait\\asynchttputils\\ihttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\asynchttputils\\policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|solutionrelative:configureawait\\asynchttputils\\policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\asynchttputils\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|solutionrelative:configureawait\\asynchttputils\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F9FACE-5C95-4616-8BDD-AE9FF68A09E6}|ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\backgroundjobprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F9FACE-5C95-4616-8BDD-AE9FF68A09E6}|ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj|solutionrelative:configureawait\\backgroundjobprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F9FACE-5C95-4616-8BDD-AE9FF68A09E6}|ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\backgroundjobprocessor\\backgroundjobprocessor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D5F9FACE-5C95-4616-8BDD-AE9FF68A09E6}|ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj|solutionrelative:configureawait\\backgroundjobprocessor\\backgroundjobprocessor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F9FACE-5C95-4616-8BDD-AE9FF68A09E6}|ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\backgroundjobprocessor\\backgroundjobprocessor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5F9FACE-5C95-4616-8BDD-AE9FF68A09E6}|ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj|solutionrelative:configureawait\\backgroundjobprocessor\\backgroundjobprocessor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\webapi-performance-analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|solutionrelative:configureawait\\webapi-performance-analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\webapi-performance-analyzer\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|solutionrelative:configureawait\\webapi-performance-analyzer\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\webapi-performance-analyzer\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|solutionrelative:configureawait\\webapi-performance-analyzer\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|ConfigureAwait{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|ConfigureAwait{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:ConfigureAwait\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\webapi-performance-analyzer\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|solutionrelative:configureawait\\webapi-performance-analyzer\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,6 +163,198 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WpfConfigureAwaitDemo\\App.xaml",
+              "RelativeDocumentMoniker": "ConfigureAwait\\WpfConfigureAwaitDemo\\App.xaml",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WpfConfigureAwaitDemo\\App.xaml",
+              "RelativeToolTip": "ConfigureAwait\\WpfConfigureAwaitDemo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T07:35:59.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WpfConfigureAwaitDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ConfigureAwait\\WpfConfigureAwaitDemo\\MainWindow.xaml",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WpfConfigureAwaitDemo\\MainWindow.xaml",
+              "RelativeToolTip": "ConfigureAwait\\WpfConfigureAwaitDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T07:33:44.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HttpService.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\HttpService.cs",
+              "RelativeDocumentMoniker": "ConfigureAwait\\AsyncHttpUtils\\HttpService.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\HttpService.cs",
+              "RelativeToolTip": "ConfigureAwait\\AsyncHttpUtils\\HttpService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:25:26.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHttpService.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\IHttpService.cs",
+              "RelativeDocumentMoniker": "ConfigureAwait\\AsyncHttpUtils\\IHttpService.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\IHttpService.cs",
+              "RelativeToolTip": "ConfigureAwait\\AsyncHttpUtils\\IHttpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:25:12.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\README.md",
+              "RelativeDocumentMoniker": "ConfigureAwait\\AsyncHttpUtils\\README.md",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\README.md",
+              "RelativeToolTip": "ConfigureAwait\\AsyncHttpUtils\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-28T07:19:43.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "ConfigureAwait\\AsyncHttpUtils\\ApiResponse.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\ApiResponse.cs",
+              "RelativeToolTip": "ConfigureAwait\\AsyncHttpUtils\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:19:12.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Policies.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\Policies.cs",
+              "RelativeDocumentMoniker": "ConfigureAwait\\AsyncHttpUtils\\Policies.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\Policies.cs",
+              "RelativeToolTip": "ConfigureAwait\\AsyncHttpUtils\\Policies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:19:09.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BackgroundJobProcessor",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
+              "RelativeDocumentMoniker": "ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
+              "RelativeToolTip": "ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T06:29:00.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BackgroundJobProcessor",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
+              "RelativeDocumentMoniker": "ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
+              "RelativeToolTip": "ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T06:27:45.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "ConfigureAwait\\BackgroundJobProcessor\\Program.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\Program.cs",
+              "RelativeToolTip": "ConfigureAwait\\BackgroundJobProcessor\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:19:02.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\Dockerfile",
+              "RelativeDocumentMoniker": "ConfigureAwait\\WebAPI-Performance-Analyzer\\Dockerfile",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\Dockerfile",
+              "RelativeToolTip": "ConfigureAwait\\WebAPI-Performance-Analyzer\\Dockerfile",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-28T06:02:54.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "ConfigureAwait\\WebAPI-Performance-Analyzer\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\Controllers\\TestController.cs",
+              "RelativeToolTip": "ConfigureAwait\\WebAPI-Performance-Analyzer\\Controllers\\TestController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T04:37:13.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\Program.cs",
+              "RelativeDocumentMoniker": "ConfigureAwait\\WebAPI-Performance-Analyzer\\Program.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\Program.cs",
+              "RelativeToolTip": "ConfigureAwait\\WebAPI-Performance-Analyzer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T04:32:51.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\README.md",
+              "RelativeDocumentMoniker": "ConfigureAwait\\README.md",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\README.md",
+              "RelativeToolTip": "ConfigureAwait\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-28T04:23:39.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\README.md",
+              "RelativeDocumentMoniker": "ConfigureAwait\\WebAPI-Performance-Analyzer\\README.md",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\README.md",
+              "RelativeToolTip": "ConfigureAwait\\WebAPI-Performance-Analyzer\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-28T04:21:26.822Z",
+              "EditorCaption": ""
             }
           ]
         },

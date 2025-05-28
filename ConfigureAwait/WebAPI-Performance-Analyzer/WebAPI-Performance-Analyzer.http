@@ -1,0 +1,6 @@
+@WebAPI_Performance_Analyzer_HostAddress = http://localhost:5104
+
+GET {{WebAPI_Performance_Analyzer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

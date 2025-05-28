@@ -1,0 +1,10 @@
+<Window x:Class="WpfConfigureAwaitDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ConfigureAwait Demo" Height="200" Width="400">
+    <StackPanel Margin="20">
+        <Button Content="With ConfigureAwait(false)" Click="Button_WithoutContext_Click" Margin="5"/>
+        <Button Content="Without ConfigureAwait(false)" Click="Button_WithContext_Click" Margin="5"/>
+        <TextBlock x:Name="StatusText" Margin="5" FontSize="16" />
+    </StackPanel>
+</Window>
