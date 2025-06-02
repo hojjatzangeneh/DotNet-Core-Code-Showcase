@@ -17,7 +17,7 @@ In asynchronous C# programming, proper use of `ConfigureAwait(false)` can:
 
 ## 🔧 Technologies Used
 
-- [.NET 8](https://dotnet.microsoft.com/)
+- [.NET 9](https://dotnet.microsoft.com/)
 - ASP.NET Core Web API
 - Serilog for logging
 - Swagger UI for easy endpoint testing
