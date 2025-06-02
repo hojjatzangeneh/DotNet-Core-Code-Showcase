@@ -1,45 +1,46 @@
 ﻿# Web API Performance Analyzer: Async Await vs ConfigureAwait
 
-📌 **هدف:** بررسی و مقایسه‌ی عملکرد متدهای `async/await` در محیط ASP.NET Core با و بدون `ConfigureAwait(false)` برای بهینه‌سازی مصرف منابع و بهبود performance.
+📌 **Goal:** Analyze and compare the performance of `async/await` methods in ASP.NET Core with and without `ConfigureAwait(false)` to optimize resource usage and improve overall performance.
 
 ---
 
-## ✨ چرا این پروژه مهمه؟
+## ✨ Why This Project Matters
 
-در برنامه‌نویسی async با C#، استفاده‌ی درست از `ConfigureAwait(false)` می‌تونه:
-- از استفاده‌ی غیرضروری از **SynchronizationContext** جلوگیری کنه،
-- باعث کاهش **latency** بشه،
-- از **deadlock** در بعضی از محیط‌ها (مثل WPF/WinForms) جلوگیری کنه،
-- و در مجموع باعث بهبود عملکرد در اپ‌های تحت وب، کتابخانه‌ها و job processorها بشه.
+In asynchronous C# programming, proper use of `ConfigureAwait(false)` can:
+
+- Prevent unnecessary use of the **SynchronizationContext**,
+- Reduce overall **latency**,
+- Avoid potential **deadlocks** in environments like WPF and WinForms,
+- And improve performance in web applications, reusable libraries, and job processors.
 
 ---
 
-## 🔧 تکنولوژی‌های استفاده شده
+## 🔧 Technologies Used
 
 - [.NET 8](https://dotnet.microsoft.com/)
 - ASP.NET Core Web API
-- Serilog برای لاگ‌گیری
-- Swagger UI برای تست راحت endpointها
-- Stopwatch برای سنجش زمان اجرا
-- Docker-ready (در صورت نیاز به دیپلوی ساده)
+- Serilog for logging
+- Swagger UI for easy endpoint testing
+- `Stopwatch` for execution time measurement
+- Docker-ready (for simple deployment if needed)
 
 ---
 
-## 🧪 تست و مقایسه‌ی دو حالت
+## 🧪 Test and Comparison of Two Scenarios
 
-این پروژه دو endpoint دارد:
+This project includes two endpoints to compare `await` behavior in different configurations:
 
-| Endpoint                  | توضیح |
-|--------------------------|-------|
-| `/api/test/await-default` | استفاده از `await` به صورت پیش‌فرض (با context) |
-| `/api/test/await-configure` | استفاده از `await ConfigureAwait(false)` (بدون context) |
+| Endpoint                    | Description |
+|----------------------------|-------------|
+| `/api/test/await-default`   | Uses `await` with the default behavior (captures context) |
+| `/api/test/await-configure` | Uses `await ConfigureAwait(false)` (no context capture) |
 
-هر کدام زمان اجرای async operation را لاگ می‌کنند تا تفاوت‌ها قابل مشاهده باشد.
+Each endpoint logs the execution time of an async operation to highlight the differences.
 
 ---
 
-## 📈 خروجی نمونه لاگ
+## 📈 Sample Log Output
 
 ```bash
-[Info] Default Await: Execution time = 120ms
+[Info] Default Await: Execution time = 120ms  
 [Info] ConfigureAwait(false): Execution time = 98ms
