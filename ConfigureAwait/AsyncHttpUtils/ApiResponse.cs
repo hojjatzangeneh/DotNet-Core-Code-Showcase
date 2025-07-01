@@ -1,6 +1,6 @@
 namespace AsyncHttpUtils;
 
-public class ApiResponse<T>
+public class ApiResponse <T>
 {
     public static ApiResponse<T> Failure(string error) { return new() { IsSuccess = false, ErrorMessage = error }; }
 

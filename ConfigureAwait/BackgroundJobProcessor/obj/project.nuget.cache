@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DitVsBdsGdk=",
+  "dgSpecHash": "lXtKQsO+nHI=",
   "success": true,
   "projectFilePath": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
   "expectedPackageFiles": [
@@ -34,5 +34,15 @@
     "C:\\Users\\h.zangeneh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1-preview.1.nupkg.sha512",
     "C:\\Users\\h.zangeneh\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.5\\system.diagnostics.eventlog.9.0.5.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

@@ -21,6 +21,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RabbitMQ", "RabbitMQ", "{661C624B-FB66-4766-9B96-5535BAB40CD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ_Consumer", "RabbitMQ\RabbitMQ_Consumer\RabbitMQ_Consumer.csproj", "{B46A9A42-FB24-492C-B41F-15E855275D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ_Producer", "RabbitMQ\RabbitMQ_Producer\RabbitMQ_Producer.csproj", "{DBB023A8-0F05-4056-B4D7-B4AC7F1C0FA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +49,14 @@ Global
 		{C5959814-A469-B722-CACF-0AE5A3B6C242}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5959814-A469-B722-CACF-0AE5A3B6C242}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5959814-A469-B722-CACF-0AE5A3B6C242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46A9A42-FB24-492C-B41F-15E855275D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46A9A42-FB24-492C-B41F-15E855275D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46A9A42-FB24-492C-B41F-15E855275D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46A9A42-FB24-492C-B41F-15E855275D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB023A8-0F05-4056-B4D7-B4AC7F1C0FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB023A8-0F05-4056-B4D7-B4AC7F1C0FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB023A8-0F05-4056-B4D7-B4AC7F1C0FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB023A8-0F05-4056-B4D7-B4AC7F1C0FA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +66,8 @@ Global
 		{D5F9FACE-5C95-4616-8BDD-AE9FF68A09E6} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{5AC136A3-723B-17A5-742A-99FC5B3AD4EC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{C5959814-A469-B722-CACF-0AE5A3B6C242} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{B46A9A42-FB24-492C-B41F-15E855275D78} = {661C624B-FB66-4766-9B96-5535BAB40CD7}
+		{DBB023A8-0F05-4056-B4D7-B4AC7F1C0FA3} = {661C624B-FB66-4766-9B96-5535BAB40CD7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C594C7BA-2C79-4B38-90BC-9BFA64F5783B}

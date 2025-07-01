@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RabbitMQ_Consumer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
