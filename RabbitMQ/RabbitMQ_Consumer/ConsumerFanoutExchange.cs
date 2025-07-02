@@ -6,7 +6,7 @@ using System.Text;
 
 namespace RabbitMQ_Consumer;
 
-public class ConsumerDirectExchange
+public class ConsumerFanoutExchange
 {
     public async Task CallConsumerAsync()
     {
@@ -14,17 +14,17 @@ public class ConsumerDirectExchange
         {
             HostName = "localhost"
         };
-        bool isAutoAckOn = true;
+
         using IConnection connection = await connectionFactory.CreateConnectionAsync().ConfigureAwait(false);
         using IChannel channel = await connection.CreateChannelAsync().ConfigureAwait(false);
 
-        const string exchangeName = "DirectExchange";
-        const string routingKey = "DirectMessage";
-        const string queueName = "DirectQueue";
+        const string exchangeName = "FanoutExchange";
+        const string routingKey = "";
+        const string queueName = "FanoutQueue";
 
         await channel.ExchangeDeclareAsync(
             exchange: exchangeName,
-            type: ExchangeType.Direct,
+            type: ExchangeType.Fanout,
             durable: false,
             autoDelete: false,
             arguments: null,
@@ -45,33 +45,22 @@ public class ConsumerDirectExchange
 
         consumer.ReceivedAsync += async (sender, ea) =>
         {
-            try
-            {
-                byte[] body = ea.Body.ToArray();
-                string message = Encoding.UTF8.GetString(body);
-                Console.WriteLine($"Received direct message: {message}");
+            byte[] body = ea.Body.ToArray();
+            string message = Encoding.UTF8.GetString(body);
+            Console.WriteLine($"Received fanout message: {message}");
 
-                if(!isAutoAckOn)
-                {
-                    await channel.BasicAckAsync(ea.DeliveryTag, false).ConfigureAwait(false);
-                }
-            }
-            catch(Exception ex)
-            {
-                Console.WriteLine(ex.ToString());
-                await channel.BasicRejectAsync(ea.DeliveryTag, true).ConfigureAwait(false);
-            }
+            // اگر autoAck = true باشه نیازی نیست این رو بنویسید، ولی برای درک بهتر قرار دادم
             await Task.CompletedTask;
         };
 
         // شروع مصرف
         await channel.BasicConsumeAsync(
             queue: queueName,
-            autoAck: isAutoAckOn, // Auto Acknowledge
+            autoAck: true, // Auto Acknowledge
             consumer: consumer)
             .ConfigureAwait(false);
 
-        Console.WriteLine("Consumer is listening for direct messages...");
+        Console.WriteLine("Consumer is listening for fanout messages...");
         Console.ReadLine();
     }
 }

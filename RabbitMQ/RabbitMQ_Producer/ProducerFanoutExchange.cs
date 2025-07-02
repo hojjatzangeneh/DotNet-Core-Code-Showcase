@@ -7,7 +7,7 @@ using System.Text;
 
 namespace RabbitMQ_Producer;
 
-public class ProducerTopicExchange
+public class ProducerFanoutExchange
 {
     public async Task CallProducerAsync()
     {
@@ -19,13 +19,13 @@ public class ProducerTopicExchange
         await using IConnection connection = await connectionFactory.CreateConnectionAsync().ConfigureAwait(false);
         await using IChannel channel = await connection.CreateChannelAsync().ConfigureAwait(false);
 
-        const string exchangeName = "TopicExchange";
-        const string routingKey = "hojjat.one.zangeneh";
+        const string exchangeName = "FanoutExchange";
+        const string routingKey = "";
 
-        // 1. تعریف Exchange از نوع Topic
+        // 1. تعریف Exchange از نوع Fanout
         await channel.ExchangeDeclareAsync(
             exchange: exchangeName,
-            type: ExchangeType.Topic,
+            type: ExchangeType.Fanout,
             durable: false,
             autoDelete: false,
             arguments: null,
@@ -33,7 +33,7 @@ public class ProducerTopicExchange
             .ConfigureAwait(false);
 
         // 2. ارسال پیام به exchange
-        const string message = "This is a topic message from Producer";
+        const string message = "This is a Fanout message from Producer";
         byte[] body = Encoding.UTF8.GetBytes(message);
 
         await channel.BasicPublishAsync(

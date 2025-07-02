@@ -3,124 +3,40 @@
   "WorkspaceRootPath": "D:\\Github\\DotNet-Core-Code-Showcase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RabbitMQ\\RabbutMQ_Producer\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{DBB023A8-0F05-4056-B4D7-B4AC7F1C0FA3}|RabbitMQ\\RabbitMQ_Producer\\RabbitMQ_Producer.csproj|d:\\github\\dotnet-core-code-showcase\\rabbitmq\\rabbitmq_producer\\producerexchangetoexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB023A8-0F05-4056-B4D7-B4AC7F1C0FA3}|RabbitMQ\\RabbitMQ_Producer\\RabbitMQ_Producer.csproj|solutionrelative:rabbitmq\\rabbitmq_producer\\producerexchangetoexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\asynchttputils\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|solutionrelative:configureawait\\asynchttputils\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|d:\\github\\dotnet-core-code-showcase\\rabbitmq\\rabbitmq_consumer\\consumerwithdirectexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|solutionrelative:rabbitmq\\rabbitmq_consumer\\consumerwithdirectexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|d:\\github\\dotnet-core-code-showcase\\rabbitmq\\rabbitmq_consumer\\consumerexchange2toexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|solutionrelative:rabbitmq\\rabbitmq_consumer\\consumerexchange2toexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|d:\\github\\dotnet-core-code-showcase\\rabbitmq\\rabbitmq_consumer\\consumerwithoutexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|solutionrelative:rabbitmq\\rabbitmq_consumer\\consumerwithoutexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|d:\\github\\dotnet-core-code-showcase\\rabbitmq\\rabbitmq_consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|solutionrelative:rabbitmq\\rabbitmq_consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|d:\\github\\dotnet-core-code-showcase\\rabbitmq\\rabbitmq_consumer\\consumerexchangetoexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|solutionrelative:rabbitmq\\rabbitmq_consumer\\consumerexchangetoexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|d:\\github\\dotnet-core-code-showcase\\rabbitmq\\rabbitmq_consumer\\rabbitmq_consumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|solutionrelative:rabbitmq\\rabbitmq_consumer\\rabbitmq_consumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|d:\\github\\dotnet-core-code-showcase\\rabbitmq\\rabbitmq_consumer\\consumerdirectexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|solutionrelative:rabbitmq\\rabbitmq_consumer\\consumerdirectexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\asynchttputils\\ihttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|solutionrelative:configureawait\\asynchttputils\\ihttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBB023A8-0F05-4056-B4D7-B4AC7F1C0FA3}|RabbitMQ\\RabbitMQ_Producer\\RabbitMQ_Producer.csproj|d:\\github\\dotnet-core-code-showcase\\rabbitmq\\rabbitmq_producer\\producerheaderexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB023A8-0F05-4056-B4D7-B4AC7F1C0FA3}|RabbitMQ\\RabbitMQ_Producer\\RabbitMQ_Producer.csproj|solutionrelative:rabbitmq\\rabbitmq_producer\\producerheaderexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5959814-A469-B722-CACF-0AE5A3B6C242}|ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\wpfconfigureawaitdemo\\wpfconfigureawaitdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C5959814-A469-B722-CACF-0AE5A3B6C242}|ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj|solutionrelative:configureawait\\wpfconfigureawaitdemo\\wpfconfigureawaitdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DBB023A8-0F05-4056-B4D7-B4AC7F1C0FA3}|RabbitMQ\\RabbitMQ_Producer\\RabbitMQ_Producer.csproj|d:\\github\\dotnet-core-code-showcase\\rabbitmq\\rabbitmq_producer\\producerrequestandreplypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB023A8-0F05-4056-B4D7-B4AC7F1C0FA3}|RabbitMQ\\RabbitMQ_Producer\\RabbitMQ_Producer.csproj|solutionrelative:rabbitmq\\rabbitmq_producer\\producerrequestandreplypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5959814-A469-B722-CACF-0AE5A3B6C242}|ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\wpfconfigureawaitdemo\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{C5959814-A469-B722-CACF-0AE5A3B6C242}|ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj|solutionrelative:configureawait\\wpfconfigureawaitdemo\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{DBB023A8-0F05-4056-B4D7-B4AC7F1C0FA3}|RabbitMQ\\RabbitMQ_Producer\\RabbitMQ_Producer.csproj|d:\\github\\dotnet-core-code-showcase\\rabbitmq\\rabbitmq_producer\\producerdirectexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB023A8-0F05-4056-B4D7-B4AC7F1C0FA3}|RabbitMQ\\RabbitMQ_Producer\\RabbitMQ_Producer.csproj|solutionrelative:rabbitmq\\rabbitmq_producer\\producerdirectexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\webapi-performance-analyzer\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|solutionrelative:configureawait\\webapi-performance-analyzer\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F9FACE-5C95-4616-8BDD-AE9FF68A09E6}|ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\backgroundjobprocessor\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{D5F9FACE-5C95-4616-8BDD-AE9FF68A09E6}|ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj|solutionrelative:configureawait\\backgroundjobprocessor\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\asynchttputils\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|solutionrelative:configureawait\\asynchttputils\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|ConfigureAwait{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|ConfigureAwait{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:ConfigureAwait\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5959814-A469-B722-CACF-0AE5A3B6C242}|ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\wpfconfigureawaitdemo\\wpfconfigureawaitdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{C5959814-A469-B722-CACF-0AE5A3B6C242}|ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj|solutionrelative:configureawait\\wpfconfigureawaitdemo\\wpfconfigureawaitdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Github\\DotNet-Core-Code-Showcase\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5959814-A469-B722-CACF-0AE5A3B6C242}|ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\wpfconfigureawaitdemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C5959814-A469-B722-CACF-0AE5A3B6C242}|ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj|solutionrelative:configureawait\\wpfconfigureawaitdemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5959814-A469-B722-CACF-0AE5A3B6C242}|ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\wpfconfigureawaitdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C5959814-A469-B722-CACF-0AE5A3B6C242}|ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj|solutionrelative:configureawait\\wpfconfigureawaitdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\asynchttputils\\httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|solutionrelative:configureawait\\asynchttputils\\httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\asynchttputils\\policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC136A3-723B-17A5-742A-99FC5B3AD4EC}|ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj|solutionrelative:configureawait\\asynchttputils\\policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F9FACE-5C95-4616-8BDD-AE9FF68A09E6}|ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\backgroundjobprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5F9FACE-5C95-4616-8BDD-AE9FF68A09E6}|ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj|solutionrelative:configureawait\\backgroundjobprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F9FACE-5C95-4616-8BDD-AE9FF68A09E6}|ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\backgroundjobprocessor\\backgroundjobprocessor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{D5F9FACE-5C95-4616-8BDD-AE9FF68A09E6}|ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj|solutionrelative:configureawait\\backgroundjobprocessor\\backgroundjobprocessor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F9FACE-5C95-4616-8BDD-AE9FF68A09E6}|ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\backgroundjobprocessor\\backgroundjobprocessor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D5F9FACE-5C95-4616-8BDD-AE9FF68A09E6}|ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj|solutionrelative:configureawait\\backgroundjobprocessor\\backgroundjobprocessor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\webapi-performance-analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|solutionrelative:configureawait\\webapi-performance-analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\webapi-performance-analyzer\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|solutionrelative:configureawait\\webapi-performance-analyzer\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|d:\\github\\dotnet-core-code-showcase\\configureawait\\webapi-performance-analyzer\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{DE1947D6-7CD4-422F-8B84-67E3DB5274C4}|ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj|solutionrelative:configureawait\\webapi-performance-analyzer\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\ProducerWithDirectExchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RabbitMQ\\RabbutMQ_Producer\\ProducerWithDirectExchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\ProducerWithoutExchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RabbitMQ\\RabbutMQ_Producer\\ProducerWithoutExchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RabbitMQ\\RabbutMQ_Producer\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RabbitMQ\\RabbutMQ_Producer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\RabbitMQ_Producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RabbitMQ\\RabbutMQ_Producer\\RabbitMQ_Producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|d:\\github\\dotnet-core-code-showcase\\rabbitmq\\rabbitmq_consumer\\consumerrequestandreplypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|solutionrelative:rabbitmq\\rabbitmq_consumer\\consumerrequestandreplypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Bookmark",
@@ -230,358 +146,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\Dockerfile",
-              "RelativeDocumentMoniker": "RabbitMQ\\RabbutMQ_Producer\\Dockerfile",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\Dockerfile",
-              "RelativeToolTip": "RabbitMQ\\RabbutMQ_Producer\\Dockerfile",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-01T11:16:20.42Z"
+              "DocumentIndex": 1,
+              "Title": "ConsumerExchange2ToExchange.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\ConsumerExchange2ToExchange.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\RabbitMQ_Consumer\\ConsumerExchange2ToExchange.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\ConsumerExchange2ToExchange.cs",
+              "RelativeToolTip": "RabbitMQ\\RabbitMQ_Consumer\\ConsumerExchange2ToExchange.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:36:02.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ConsumerWithDirectExchange.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\ConsumerWithDirectExchange.cs",
-              "RelativeDocumentMoniker": "RabbitMQ\\RabbitMQ_Consumer\\ConsumerWithDirectExchange.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\ConsumerWithDirectExchange.cs",
-              "RelativeToolTip": "RabbitMQ\\RabbitMQ_Consumer\\ConsumerWithDirectExchange.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBMAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T10:59:43.966Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ProducerWithDirectExchange.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\ProducerWithDirectExchange.cs",
-              "RelativeDocumentMoniker": "RabbitMQ\\RabbutMQ_Producer\\ProducerWithDirectExchange.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\ProducerWithDirectExchange.cs",
-              "RelativeToolTip": "RabbitMQ\\RabbutMQ_Producer\\ProducerWithDirectExchange.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T10:43:13.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ProducerWithoutExchange.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\ProducerWithoutExchange.cs",
-              "RelativeDocumentMoniker": "RabbitMQ\\RabbutMQ_Producer\\ProducerWithoutExchange.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\ProducerWithoutExchange.cs",
-              "RelativeToolTip": "RabbitMQ\\RabbutMQ_Producer\\ProducerWithoutExchange.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T10:39:31.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "RabbitMQ\\RabbutMQ_Producer\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\Properties\\launchSettings.json",
-              "RelativeToolTip": "RabbitMQ\\RabbutMQ_Producer\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-01T10:38:15.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\Program.cs",
-              "RelativeDocumentMoniker": "RabbitMQ\\RabbutMQ_Producer\\Program.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\Program.cs",
-              "RelativeToolTip": "RabbitMQ\\RabbutMQ_Producer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T09:28:18.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "ConfigureAwait\\AsyncHttpUtils\\ApiResponse.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\ApiResponse.cs",
-              "RelativeToolTip": "ConfigureAwait\\AsyncHttpUtils\\ApiResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T07:19:12.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ConsumerWithoutExchange.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\ConsumerWithoutExchange.cs",
               "RelativeDocumentMoniker": "RabbitMQ\\RabbitMQ_Consumer\\ConsumerWithoutExchange.cs",
               "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\ConsumerWithoutExchange.cs",
               "RelativeToolTip": "RabbitMQ\\RabbitMQ_Consumer\\ConsumerWithoutExchange.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwDAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T10:55:36.714Z"
+              "WhenOpened": "2025-07-02T08:31:50.997Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "RabbitMQ_Producer.csproj",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\RabbitMQ_Producer.csproj",
-              "RelativeDocumentMoniker": "RabbitMQ\\RabbutMQ_Producer\\RabbitMQ_Producer.csproj",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbutMQ_Producer\\RabbitMQ_Producer.csproj",
-              "RelativeToolTip": "RabbitMQ\\RabbutMQ_Producer\\RabbitMQ_Producer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-01T09:28:11.583Z"
+              "DocumentIndex": 0,
+              "Title": "ProducerExchangeToExchange.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Producer\\ProducerExchangeToExchange.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\RabbitMQ_Producer\\ProducerExchangeToExchange.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Producer\\ProducerExchangeToExchange.cs",
+              "RelativeToolTip": "RabbitMQ\\RabbitMQ_Producer\\ProducerExchangeToExchange.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:05:30.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsumerExchangeToExchange.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\ConsumerExchangeToExchange.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\RabbitMQ_Consumer\\ConsumerExchangeToExchange.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\ConsumerExchangeToExchange.cs",
+              "RelativeToolTip": "RabbitMQ\\RabbitMQ_Consumer\\ConsumerExchangeToExchange.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wBoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:05:02.546Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\Program.cs",
-              "RelativeDocumentMoniker": "RabbitMQ\\RabbitMQ_Consumer\\Program.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\Program.cs",
-              "RelativeToolTip": "RabbitMQ\\RabbitMQ_Consumer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "Title": "ConsumerDirectExchange.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\ConsumerDirectExchange.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\RabbitMQ_Consumer\\ConsumerDirectExchange.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\ConsumerDirectExchange.cs",
+              "RelativeToolTip": "RabbitMQ\\RabbitMQ_Consumer\\ConsumerDirectExchange.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwDgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T07:05:53.166Z"
+              "WhenOpened": "2025-07-02T08:05:06.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RabbitMQ_Consumer.csproj",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj",
-              "RelativeDocumentMoniker": "RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj",
-              "RelativeToolTip": "RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-01T09:28:14.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WpfConfigureAwaitDemo\\README.md",
-              "RelativeDocumentMoniker": "ConfigureAwait\\WpfConfigureAwaitDemo\\README.md",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WpfConfigureAwaitDemo\\README.md",
-              "RelativeToolTip": "ConfigureAwait\\WpfConfigureAwaitDemo\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-02T11:58:54.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WpfConfigureAwaitDemo.csproj",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj",
-              "RelativeDocumentMoniker": "ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj",
-              "RelativeToolTip": "ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T11:58:49.813Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\README.md",
-              "RelativeDocumentMoniker": "ConfigureAwait\\BackgroundJobProcessor\\README.md",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\README.md",
-              "RelativeToolTip": "ConfigureAwait\\BackgroundJobProcessor\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-02T11:58:12.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "WpfConfigureAwaitDemo",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj",
-              "RelativeDocumentMoniker": "ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj",
-              "RelativeToolTip": "ConfigureAwait\\WpfConfigureAwaitDemo\\WpfConfigureAwaitDemo.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T11:54:34.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-28T07:52:21.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\README.md",
-              "RelativeDocumentMoniker": "ConfigureAwait\\AsyncHttpUtils\\README.md",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\README.md",
-              "RelativeToolTip": "ConfigureAwait\\AsyncHttpUtils\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-05-28T07:19:43.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Policies.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\Policies.cs",
-              "RelativeDocumentMoniker": "ConfigureAwait\\AsyncHttpUtils\\Policies.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\Policies.cs",
-              "RelativeToolTip": "ConfigureAwait\\AsyncHttpUtils\\Policies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Title": "ProducerHeaderExchange.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Producer\\ProducerHeaderExchange.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\RabbitMQ_Producer\\ProducerHeaderExchange.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Producer\\ProducerHeaderExchange.cs",
+              "RelativeToolTip": "RabbitMQ\\RabbitMQ_Producer\\ProducerHeaderExchange.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T07:19:09.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BackgroundJobProcessor",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
-              "RelativeDocumentMoniker": "ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
-              "RelativeToolTip": "ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-28T06:29:00.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\README.md",
-              "RelativeDocumentMoniker": "ConfigureAwait\\WebAPI-Performance-Analyzer\\README.md",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\README.md",
-              "RelativeToolTip": "ConfigureAwait\\WebAPI-Performance-Analyzer\\README.md",
-              "ViewState": "AgIAABYAAAAAAAAAAAAYwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-05-28T04:21:26.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\README.md",
-              "RelativeDocumentMoniker": "ConfigureAwait\\README.md",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\README.md",
-              "RelativeToolTip": "ConfigureAwait\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-05-28T04:23:39.169Z"
+              "WhenOpened": "2025-07-02T08:18:05.766Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IHttpService.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\IHttpService.cs",
-              "RelativeDocumentMoniker": "ConfigureAwait\\AsyncHttpUtils\\IHttpService.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\IHttpService.cs",
-              "RelativeToolTip": "ConfigureAwait\\AsyncHttpUtils\\IHttpService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "ProducerRequestAndReplyPattern.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Producer\\ProducerRequestAndReplyPattern.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\RabbitMQ_Producer\\ProducerRequestAndReplyPattern.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Producer\\ProducerRequestAndReplyPattern.cs",
+              "RelativeToolTip": "RabbitMQ\\RabbitMQ_Producer\\ProducerRequestAndReplyPattern.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T07:25:12.278Z"
+              "WhenOpened": "2025-07-02T05:45:08.302Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HttpService.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\HttpService.cs",
-              "RelativeDocumentMoniker": "ConfigureAwait\\AsyncHttpUtils\\HttpService.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\HttpService.cs",
-              "RelativeToolTip": "ConfigureAwait\\AsyncHttpUtils\\HttpService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAArwCAAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ProducerDirectExchange.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Producer\\ProducerDirectExchange.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\RabbitMQ_Producer\\ProducerDirectExchange.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Producer\\ProducerDirectExchange.cs",
+              "RelativeToolTip": "RabbitMQ\\RabbitMQ_Producer\\ProducerDirectExchange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T07:25:26.592Z"
+              "WhenOpened": "2025-07-02T08:01:53.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WpfConfigureAwaitDemo\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ConfigureAwait\\WpfConfigureAwaitDemo\\MainWindow.xaml",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WpfConfigureAwaitDemo\\MainWindow.xaml",
-              "RelativeToolTip": "ConfigureAwait\\WpfConfigureAwaitDemo\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-28T07:33:44.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WpfConfigureAwaitDemo\\App.xaml",
-              "RelativeDocumentMoniker": "ConfigureAwait\\WpfConfigureAwaitDemo\\App.xaml",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WpfConfigureAwaitDemo\\App.xaml",
-              "RelativeToolTip": "ConfigureAwait\\WpfConfigureAwaitDemo\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-28T07:35:59.102Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BackgroundJobProcessor.csproj",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
-              "RelativeDocumentMoniker": "ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
-              "RelativeToolTip": "ConfigureAwait\\BackgroundJobProcessor\\BackgroundJobProcessor.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-28T06:27:45.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\Program.cs",
-              "RelativeDocumentMoniker": "ConfigureAwait\\BackgroundJobProcessor\\Program.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\BackgroundJobProcessor\\Program.cs",
-              "RelativeToolTip": "ConfigureAwait\\BackgroundJobProcessor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBUAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ConsumerRequestAndReplyPattern.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\ConsumerRequestAndReplyPattern.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\RabbitMQ_Consumer\\ConsumerRequestAndReplyPattern.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\ConsumerRequestAndReplyPattern.cs",
+              "RelativeToolTip": "RabbitMQ\\RabbitMQ_Consumer\\ConsumerRequestAndReplyPattern.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T06:19:02.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\Dockerfile",
-              "RelativeDocumentMoniker": "ConfigureAwait\\WebAPI-Performance-Analyzer\\Dockerfile",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\Dockerfile",
-              "RelativeToolTip": "ConfigureAwait\\WebAPI-Performance-Analyzer\\Dockerfile",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-28T06:02:54.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "TestController.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\Controllers\\TestController.cs",
-              "RelativeDocumentMoniker": "ConfigureAwait\\WebAPI-Performance-Analyzer\\Controllers\\TestController.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\Controllers\\TestController.cs",
-              "RelativeToolTip": "ConfigureAwait\\WebAPI-Performance-Analyzer\\Controllers\\TestController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwBkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T04:37:13.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\Program.cs",
-              "RelativeDocumentMoniker": "ConfigureAwait\\WebAPI-Performance-Analyzer\\Program.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\Program.cs",
-              "RelativeToolTip": "ConfigureAwait\\WebAPI-Performance-Analyzer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T04:32:51.61Z"
+              "WhenOpened": "2025-07-02T05:48:06.788Z",
+              "EditorCaption": ""
             }
           ]
         },

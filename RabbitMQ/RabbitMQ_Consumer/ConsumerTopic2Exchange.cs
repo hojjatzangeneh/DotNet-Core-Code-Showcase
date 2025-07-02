@@ -18,9 +18,9 @@ public class ConsumerTopic2Exchange
         using IConnection connection = await connectionFactory.CreateConnectionAsync().ConfigureAwait(false);
         using IChannel channel = await connection.CreateChannelAsync().ConfigureAwait(false);
 
-        const string exchangeName = "DirectExchange";
+        const string exchangeName = "TopicExchange";
         const string routingKey = "hojjat.*.*.zangeneh";
-        const string queueName = "DirectQueue";
+        const string queueName = "Topic2Queue";
 
         await channel.ExchangeDeclareAsync(
             exchange: exchangeName,
@@ -47,7 +47,7 @@ public class ConsumerTopic2Exchange
         {
             byte[] body = ea.Body.ToArray();
             string message = Encoding.UTF8.GetString(body);
-            Console.WriteLine($"Received direct message: {message}");
+            Console.WriteLine($"Received topic2 message: {message}");
 
             // اگر autoAck = true باشه نیازی نیست این رو بنویسید، ولی برای درک بهتر قرار دادم
             await Task.CompletedTask;
@@ -60,7 +60,7 @@ public class ConsumerTopic2Exchange
             consumer: consumer)
             .ConfigureAwait(false);
 
-        Console.WriteLine("Consumer is listening for direct messages...");
+        Console.WriteLine("Consumer is listening for topic2 messages...");
         Console.ReadLine();
     }
 }
