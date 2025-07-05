@@ -22,6 +22,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RabbitMQ", "RabbitMQ", "{661C624B-FB66-4766-9B96-5535BAB40CD7}"
+	ProjectSection(SolutionItems) = preProject
+		ConfigureAwait\README.md = ConfigureAwait\README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ_Consumer", "RabbitMQ\RabbitMQ_Consumer\RabbitMQ_Consumer.csproj", "{B46A9A42-FB24-492C-B41F-15E855275D78}"
 EndProject

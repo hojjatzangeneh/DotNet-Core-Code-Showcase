@@ -812,23 +812,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\h.zangeneh\\.nuget\\packages\\": {},
-    "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\hojja\\.nuget\\packages\\": {},
+    "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj",
+      "projectUniqueName": "D:\\GitHub\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj",
       "projectName": "AsyncHttpUtils",
-      "projectPath": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj",
-      "packagesPath": "C:\\Users\\h.zangeneh\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\obj\\",
+      "projectPath": "D:\\GitHub\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\AsyncHttpUtils.csproj",
+      "packagesPath": "C:\\Users\\hojja\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\DotNet-Core-Code-Showcase\\ConfigureAwait\\AsyncHttpUtils\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\h.zangeneh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hojja\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -836,6 +836,7 @@
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -890,16 +891,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300-preview.0.25177.5/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }

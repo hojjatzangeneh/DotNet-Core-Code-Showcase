@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\WpfConfigureAwaitDemo\obj\Debug\net9.0-windows\
+D:\GitHub\DotNet-Core-Code-Showcase\ConfigureAwait\WpfConfigureAwaitDemo\obj\Debug\net9.0-windows\
 WpfConfigureAwaitDemo
 none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\WpfConfigureAwaitDemo\App.xaml
+D:\GitHub\DotNet-Core-Code-Showcase\ConfigureAwait\WpfConfigureAwaitDemo\App.xaml
 11407045341
 
 3-710513162
-2001466749558
+2001031969389
 MainWindow.xaml;
 
 False

@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj",
+        "Action": "Start",
+        "DebugTarget": "RabbitMQ_Consumer"
+      },
+      {
+        "Path": "RabbitMQ\\RabbitMQ_Producer\\RabbitMQ_Producer.csproj",
+        "Action": "Start",
+        "DebugTarget": "RabbitMQ_Producer"
+      }
+    ]
+  }
+]
