@@ -7,6 +7,8 @@ public class User
 
     public int Id { get; set; }
 
+    public bool IsDeleted { get; set; } // Soft Delete
+
     public string Name { get; set; }
 
     public Profile Profile { get; set; }
