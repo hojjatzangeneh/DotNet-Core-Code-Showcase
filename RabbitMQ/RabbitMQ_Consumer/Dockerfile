@@ -1,27 +1,34 @@
-# See https://aka.ms/customizecontainer to learn how to customize your debug container and how Visual Studio uses this Dockerfile to build your images for faster debugging.
-
-# This stage is used when running from VS in fast mode (Default for Debug configuration)
-FROM mcr.microsoft.com/dotnet/sdk:9.0 AS base
-USER $APP_UID
+# Base image for running the application in the final container
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS base
 WORKDIR /app
+EXPOSE 80
 
-
-# This stage is used to build the service project
+# Build stage: includes restore and build steps
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["RabbitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer.csproj", "RabbitMQ/RabbitMQ_Consumer/"]
-RUN dotnet restore "./RabbitMQ/RabbitMQ_Consumer/RabbitMQ_Consumer.csproj"
-COPY . .
-WORKDIR "/src/RabbitMQ/RabbitMQ_Consumer"
-RUN dotnet build "./RabbitMQ_Consumer.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
-# This stage is used to publish the service project to be copied to the final stage
+# Copy only the project file to restore dependencies early
+COPY ["RabbitMQ_Consumer.csproj", "./"]
+
+# Restore NuGet packages
+RUN dotnet restore "./RabbitMQ_Consumer.csproj"
+
+# Copy the rest of the source code
+COPY . .
+
+# Set the working directory to project root
+WORKDIR "/src"
+
+# Build the application
+RUN dotnet build "RabbitMQ_Consumer.csproj" -c $BUILD_CONFIGURATION -o /app/build
+
+# Publish stage: prepares the app for production
 FROM build AS publish
 ARG BUILD_CONFIGURATION=Release
-RUN dotnet publish "./RabbitMQ_Consumer.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
+RUN dotnet publish "RabbitMQ_Consumer.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
 
-# This stage is used in production or when running from VS in regular mode (Default when not using the Debug configuration)
+# Final image: minimal runtime-only container
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .

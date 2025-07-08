@@ -224,23 +224,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hojja\\.nuget\\packages\\": {},
-    "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\h.zangeneh\\.nuget\\packages\\": {},
+    "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Producer\\RabbitMQ_Producer.csproj",
+      "projectUniqueName": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Producer\\RabbitMQ_Producer.csproj",
       "projectName": "RabbitMQ_Producer",
-      "projectPath": "D:\\GitHub\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Producer\\RabbitMQ_Producer.csproj",
-      "packagesPath": "C:\\Users\\hojja\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Producer\\obj\\",
+      "projectPath": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Producer\\RabbitMQ_Producer.csproj",
+      "packagesPath": "C:\\Users\\h.zangeneh\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Producer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\hojja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\h.zangeneh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -248,7 +248,6 @@
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -299,7 +298,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300-preview.0.25177.5/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
