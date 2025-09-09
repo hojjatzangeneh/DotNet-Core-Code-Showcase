@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Memory-Cache")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ec0023258cac8d7502d8a980618b7911145efa8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f6cb96b48fedcccbb626cc976dc808f549a8b39")]
 [assembly: System.Reflection.AssemblyProductAttribute("Memory-Cache")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Memory-Cache")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

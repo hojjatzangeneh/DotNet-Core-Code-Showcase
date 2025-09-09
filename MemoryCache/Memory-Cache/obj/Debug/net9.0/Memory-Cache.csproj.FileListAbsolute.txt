@@ -32,3 +32,16 @@ D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\obj\Debug\net9.0\re
 D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\obj\Debug\net9.0\Memory-Cache.pdb
 D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\obj\Debug\net9.0\Memory-Cache.genruntimeconfig.cache
 D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\obj\Debug\net9.0\ref\Memory-Cache.dll
+D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\bin\Debug\net9.0\LazyCache.dll
+D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\bin\Debug\net9.0\LazyCache.AspNetCore.dll
+D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\bin\Debug\net9.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\bin\Debug\net9.0\StackExchange.Redis.dll
+D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github\DotNet-Core-Code-Showcase\MemoryCache\Memory-Cache\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -3,12 +3,88 @@
   "WorkspaceRootPath": "D:\\Github\\DotNet-Core-Code-Showcase\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\controllers\\distributedcachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\controllers\\distributedcachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\controllers\\hybridcachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\controllers\\hybridcachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\controllers\\lazycachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\controllers\\lazycachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\controllers\\memorycachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\controllers\\memorycachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\services\\memorycacheproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\services\\memorycacheproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\services\\lazycacheproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\services\\lazycacheproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\services\\hybridcacheproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\services\\hybridcacheproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\services\\distributedcacheproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\services\\distributedcacheproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|d:\\github\\dotnet-core-code-showcase\\dapper\\dapper_sample_code\\controllers\\advancedusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|solutionrelative:dapper\\dapper_sample_code\\controllers\\advancedusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|d:\\github\\dotnet-core-code-showcase\\dapper\\dapper_sample_code\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|solutionrelative:dapper\\dapper_sample_code\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|d:\\github\\dotnet-core-code-showcase\\dapper\\dapper_sample_code\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|solutionrelative:dapper\\dapper_sample_code\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|d:\\github\\dotnet-core-code-showcase\\dapper\\dapper_sample_code\\data\\repositories\\iadvanceduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|solutionrelative:dapper\\dapper_sample_code\\data\\repositories\\iadvanceduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|d:\\github\\dotnet-core-code-showcase\\dapper\\dapper_sample_code\\data\\repositories\\advanceduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|solutionrelative:dapper\\dapper_sample_code\\data\\repositories\\advanceduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|d:\\github\\dotnet-core-code-showcase\\rabbitmq\\rabbitmq_consumer\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|solutionrelative:rabbitmq\\rabbitmq_consumer\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|d:\\github\\dotnet-core-code-showcase\\dapper\\dapper_sample_code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|solutionrelative:dapper\\dapper_sample_code\\data\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|d:\\github\\dotnet-core-code-showcase\\dapper\\dapper_sample_code\\data\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|solutionrelative:dapper\\dapper_sample_code\\data\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|d:\\github\\dotnet-core-code-showcase\\dapper\\dapper_sample_code\\dto\\userfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|solutionrelative:dapper\\dapper_sample_code\\dto\\userfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,28 +115,8 @@
       "RelativeMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|solutionrelative:dapper\\dapper_sample_code\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|d:\\github\\dotnet-core-code-showcase\\dapper\\dapper_sample_code\\controllers\\advancedusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|solutionrelative:dapper\\dapper_sample_code\\controllers\\advancedusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|d:\\github\\dotnet-core-code-showcase\\dapper\\dapper_sample_code\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|solutionrelative:dapper\\dapper_sample_code\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|d:\\github\\dotnet-core-code-showcase\\dapper\\dapper_sample_code\\data\\repositories\\advanceduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|solutionrelative:dapper\\dapper_sample_code\\data\\repositories\\advanceduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|d:\\github\\dotnet-core-code-showcase\\dapper\\dapper_sample_code\\data\\repositories\\iadvanceduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|solutionrelative:dapper\\dapper_sample_code\\data\\repositories\\iadvanceduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|d:\\github\\dotnet-core-code-showcase\\dapper\\dapper_sample_code\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|solutionrelative:dapper\\dapper_sample_code\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|d:\\github\\dotnet-core-code-showcase\\rabbitmq\\rabbitmq_consumer\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|solutionrelative:rabbitmq\\rabbitmq_consumer\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B46A9A42-FB24-492C-B41F-15E855275D78}|RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj|d:\\github\\dotnet-core-code-showcase\\rabbitmq\\rabbitmq_consumer\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -175,16 +227,12 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         },
         {
           "DockedWidth": 218,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -204,116 +252,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\UnitOfWork.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\UnitOfWork.cs",
-              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T11:36:42.882Z"
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\appsettings.json",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\appsettings.json",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\appsettings.json",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T10:58:44.85Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IUnitOfWork.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IUnitOfWork.cs",
-              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Title": "LazyCacheController.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Controllers\\LazyCacheController.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Controllers\\LazyCacheController.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Controllers\\LazyCacheController.cs",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\Controllers\\LazyCacheController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T11:35:56.017Z"
+              "WhenOpened": "2025-09-09T10:41:52.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserFilterDto.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\DTO\\UserFilterDto.cs",
-              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\DTO\\UserFilterDto.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\DTO\\UserFilterDto.cs",
-              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\DTO\\UserFilterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "HybridCacheController.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Controllers\\HybridCacheController.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Controllers\\HybridCacheController.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Controllers\\HybridCacheController.cs",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\Controllers\\HybridCacheController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T11:34:44.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Services\\UserService.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Services\\UserService.cs",
-              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Services\\UserService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T09:39:56.013Z",
+              "WhenOpened": "2025-09-09T10:41:44.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwEYAAAABAAAAAAAAAA==",
+              "Title": "DistributedCacheController.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Controllers\\DistributedCacheController.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Controllers\\DistributedCacheController.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Controllers\\DistributedCacheController.cs",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\Controllers\\DistributedCacheController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T09:35:50.85Z"
+              "WhenOpened": "2025-09-09T10:40:15.561Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Program.cs",
-              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Program.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Program.cs",
-              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T09:42:51.371Z"
+              "WhenOpened": "2025-09-09T09:34:17.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Data\\Models\\User.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Models\\User.cs",
-              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Data\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Program.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Program.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Program.cs",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADgvzIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T09:36:44.779Z"
+              "WhenOpened": "2025-09-09T08:32:23.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemoryCacheController.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Controllers\\MemoryCacheController.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Controllers\\MemoryCacheController.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Controllers\\MemoryCacheController.cs",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\Controllers\\MemoryCacheController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:41:55.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemoryCacheProductService.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Services\\MemoryCacheProductService.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Services\\MemoryCacheProductService.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Services\\MemoryCacheProductService.cs",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\Services\\MemoryCacheProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:47:44.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Profile.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Models\\Profile.cs",
-              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Data\\Models\\Profile.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Models\\Profile.cs",
-              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Data\\Models\\Profile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Title": "LazyCacheProductService.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Services\\LazyCacheProductService.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Services\\LazyCacheProductService.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Services\\LazyCacheProductService.cs",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\Services\\LazyCacheProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T10:43:40.987Z"
+              "WhenOpened": "2025-09-09T09:47:40.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Services\\IProductService.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Services\\IProductService.cs",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T09:36:49.764Z"
+              "WhenOpened": "2025-09-09T10:06:40.165Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "HybridCacheProductService.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Services\\HybridCacheProductService.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Services\\HybridCacheProductService.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Services\\HybridCacheProductService.cs",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\Services\\HybridCacheProductService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:47:31.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DistributedCacheProductService.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Services\\DistributedCacheProductService.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Services\\DistributedCacheProductService.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Services\\DistributedCacheProductService.cs",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\Services\\DistributedCacheProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:46:58.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "AdvancedUserController.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Controllers\\AdvancedUserController.cs",
               "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Controllers\\AdvancedUserController.cs",
@@ -321,71 +416,77 @@
               "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Controllers\\AdvancedUserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T10:41:18.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Services\\IUserService.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Services\\IUserService.cs",
-              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Services\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T09:39:58.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IUserRepository.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T10:45:29.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AdvancedUserRepository.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\AdvancedUserRepository.cs",
-              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\AdvancedUserRepository.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\AdvancedUserRepository.cs",
-              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\AdvancedUserRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAADwvx4AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T10:47:07.758Z"
+              "WhenOpened": "2025-07-08T10:41:18.742Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "IAdvancedUserRepository.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IAdvancedUserRepository.cs",
-              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IAdvancedUserRepository.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IAdvancedUserRepository.cs",
-              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IAdvancedUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T10:46:43.553Z"
+              "WhenOpened": "2025-09-09T09:45:39.171Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\appsettings.json",
-              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\appsettings.json",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\appsettings.json",
-              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-08T09:42:04.135Z"
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:45:17.71Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Models\\Product.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Models\\Product.cs",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:44:06.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Dockerfile",
+              "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Dockerfile",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Dockerfile",
+              "RelativeToolTip": "MemoryCache\\Memory-Cache\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-09T08:20:44.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Services\\UserService.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Services\\UserService.cs",
+              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:39:56.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\Dockerfile",
               "RelativeDocumentMoniker": "RabbitMQ\\RabbitMQ_Consumer\\Dockerfile",
@@ -393,11 +494,142 @@
               "RelativeToolTip": "RabbitMQ\\RabbitMQ_Consumer\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-08T08:22:23.398Z"
+              "WhenOpened": "2025-07-08T08:22:23.398Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:36:42.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdvancedUserRepository.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\AdvancedUserRepository.cs",
+              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\AdvancedUserRepository.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\AdvancedUserRepository.cs",
+              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\AdvancedUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:47:07.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAdvancedUserRepository.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IAdvancedUserRepository.cs",
+              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IAdvancedUserRepository.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IAdvancedUserRepository.cs",
+              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IAdvancedUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:46:43.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Data\\Models\\User.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Models\\User.cs",
+              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:36:44.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Program.cs",
+              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Program.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Program.cs",
+              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:42:51.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:35:50.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserFilterDto.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\DTO\\UserFilterDto.cs",
+              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\DTO\\UserFilterDto.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\DTO\\UserFilterDto.cs",
+              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\DTO\\UserFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:34:44.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Data\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:35:56.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Models\\Profile.cs",
+              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\Data\\Models\\Profile.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\Data\\Models\\Profile.cs",
+              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\Data\\Models\\Profile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:43:40.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\appsettings.json",
+              "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\appsettings.json",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\appsettings.json",
+              "RelativeToolTip": "Dapper\\Dapper_Sample_Code\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T09:42:04.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\docker-compose.yml",
               "RelativeDocumentMoniker": "RabbitMQ\\RabbitMQ_Consumer\\docker-compose.yml",
@@ -405,7 +637,8 @@
               "RelativeToolTip": "RabbitMQ\\RabbitMQ_Consumer\\docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-07-08T08:22:20.395Z"
+              "WhenOpened": "2025-07-08T08:22:20.395Z",
+              "EditorCaption": ""
             }
           ]
         }
