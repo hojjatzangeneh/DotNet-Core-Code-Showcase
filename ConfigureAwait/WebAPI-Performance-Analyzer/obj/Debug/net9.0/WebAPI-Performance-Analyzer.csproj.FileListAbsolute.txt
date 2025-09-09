@@ -30,3 +30,8 @@ D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\WebAPI-Performance-Analyzer\o
 D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\WebAPI-Performance-Analyzer\bin\Debug\net9.0\Scalar.AspNetCore.dll
 D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\WebAPI-Performance-Analyzer\bin\Debug\net9.0\Swashbuckle.AspNetCore.ReDoc.dll
 D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\WebAPI-Performance-Analyzer\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\WebAPI-Performance-Analyzer\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\WebAPI-Performance-Analyzer\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\WebAPI-Performance-Analyzer\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\WebAPI-Performance-Analyzer\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\WebAPI-Performance-Analyzer\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

@@ -3,37 +3,32 @@ using Dapper_Sample_Code.Data.Repositories;
 
 namespace Dapper_Sample_Code.Services;
 
-public class UserService : IUserService
+public class UserService(IUserRepository repo) : IUserService
 {
-    readonly IUserRepository _repo;
+    readonly IUserRepository userRepository = repo;
 
-    public UserService(IUserRepository repo)
+    public async Task<int> CreateUserAsync(User user)
     {
-        _repo = repo;
+        return await userRepository.InsertAsync(user);
     }
 
-    public Task<int> CreateUserAsync(User user)
+    public async Task<int> DeleteUserAsync(int id)
     {
-        return _repo.CreateUserAsync(user);
+        return await userRepository.SoftDeleteAsync(id);
     }
 
-    public Task<int> DeleteUserAsync(int id)
+    public async Task<IEnumerable<User>> GetAllUsersAsync()
     {
-        return _repo.DeleteUserAsync(id);
+        return await userRepository.GetAllWithProfileAsync();
     }
 
-    public Task<IEnumerable<User>> GetAllUsersAsync()
+    public async Task<User?> GetUserByIdAsync(int id)
     {
-        return _repo.GetAllUsersAsync();
+        return await userRepository.GetByIdAsync(id);
     }
 
-    public Task<User> GetUserByIdAsync(int id)
+    public async Task<int> UpdateUserAsync(User user)
     {
-        return _repo.GetUserByIdAsync(id);
-    }
-
-    public Task<int> UpdateUserAsync(User user)
-    {
-        return _repo.UpdateUserAsync(user);
+        return await userRepository.UpdateAsync(user);
     }
 }
