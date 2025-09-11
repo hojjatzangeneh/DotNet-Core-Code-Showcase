@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackgroundJobProcessor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ec0023258cac8d7502d8a980618b7911145efa8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7617288dabe79143148fd6db7a0f2048e5c88ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackgroundJobProcessor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackgroundJobProcessor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
