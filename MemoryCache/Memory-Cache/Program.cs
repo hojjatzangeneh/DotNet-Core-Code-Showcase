@@ -1,6 +1,6 @@
+using Memory_Cache;
 
 using Memory_Cache.Repositories;
-
 using Memory_Cache.Services;
 
 using System.Text.Json;
@@ -28,7 +28,7 @@ builder.Services
             }
         });
 
-// Distributed cache -> Redis
+// Distributed cache -> Redis database
 string redisConn = builder.Configuration.GetValue<string>("Cache:Distributed:RedisConnection") ?? "localhost:6379";
 string instance = builder.Configuration.GetValue<string>("Cache:Distributed:InstanceName") ?? "shopcache:";
 builder.Services
@@ -38,10 +38,18 @@ builder.Services
             o.Configuration = redisConn;
             o.InstanceName = instance;
         });
-
+builder.Services
+    .Configure<MemoryCacheSettings>(
+        builder.Configuration.GetSection("Cache:Defaults"));
+builder.Services
+    .Configure<LazyCacheSettings>(
+        builder.Configuration.GetSection("Cache:Lazy"));
+builder.Services
+    .Configure<DistributedCacheSettings>(
+        builder.Configuration.GetSection("Cache:Distributed"));
 // LazyCache
 builder.Services.AddLazyCache();
-// DI for repo & services
+// DI for repository & services
 builder.Services.AddSingleton<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<MemoryCacheProductService>();
 builder.Services.AddScoped<DistributedCacheProductService>();
@@ -54,12 +62,11 @@ builder.Services
 WebApplication app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if(app.Environment.IsDevelopment())
-{
-    app.MapOpenApi();
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+
+app.MapOpenApi();
+app.UseSwagger();
+app.UseSwaggerUI();
+
 app.MapControllers();
 app.MapGet("/", handler: () => Results.Redirect("/swagger"));
 app.MapGet("/healthz", () => Results.Ok(new { ok = true, ts = DateTimeOffset.UtcNow }));

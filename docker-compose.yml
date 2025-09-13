@@ -1,0 +1,6 @@
+services:
+  memory-cache:
+    image: ${DOCKER_REGISTRY-}memorycache
+    build:
+      context: .
+      dockerfile: MemoryCache/Memory-Cache/Dockerfile
