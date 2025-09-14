@@ -1,0 +1,2 @@
+﻿https://www.youtube.com/watch?v=Xff3dBZfPTk
+https://github.com/stacktrekker/docker-elk.git
