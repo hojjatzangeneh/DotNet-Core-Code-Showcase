@@ -3,24 +3,60 @@
   "WorkspaceRootPath": "D:\\Github\\DotNet-Core-Code-Showcase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\elkstack\\docker-elk\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|solutionrelative:logs\\elkstack\\docker-elk\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{87F46081-E7D4-46F0-8AA5-38E86D19B613}|Logs\\ELKStackApp\\ELKStackApp.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\elkstackapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87F46081-E7D4-46F0-8AA5-38E86D19B613}|Logs\\ELKStackApp\\ELKStackApp.csproj|solutionrelative:logs\\elkstackapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F46081-E7D4-46F0-8AA5-38E86D19B613}|Logs\\ELKStackApp\\ELKStackApp.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\elkstackapp\\serilogextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F46081-E7D4-46F0-8AA5-38E86D19B613}|Logs\\ELKStackApp\\ELKStackApp.csproj|solutionrelative:logs\\elkstackapp\\serilogextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F46081-E7D4-46F0-8AA5-38E86D19B613}|Logs\\ELKStackApp\\ELKStackApp.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\elkstackapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F46081-E7D4-46F0-8AA5-38E86D19B613}|Logs\\ELKStackApp\\ELKStackApp.csproj|solutionrelative:logs\\elkstackapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\elkstack\\github-docker-elk.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|solutionrelative:logs\\elkstack\\github-docker-elk.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\elkstack\\logstash\\pipeline\\pipeline.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|solutionrelative:logs\\elkstack\\logstash\\pipeline\\pipeline.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\elkstack\\docker-elk\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|solutionrelative:logs\\elkstack\\docker-elk\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\elkstack\\docker-elk\\setup\\lib.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|solutionrelative:logs\\elkstack\\docker-elk\\setup\\lib.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\elkstack\\docker-elk\\setup\\entrypoint.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|solutionrelative:logs\\elkstack\\docker-elk\\setup\\entrypoint.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\elkstack\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|solutionrelative:logs\\elkstack\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\elkstack\\docker-elk\\logstash\\config\\logstash.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|solutionrelative:logs\\elkstack\\docker-elk\\logstash\\config\\logstash.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\elkstack\\docker-elk\\logstash\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|solutionrelative:logs\\elkstack\\docker-elk\\logstash\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\elkstack\\docker-elk\\logstash\\pipeline\\logstash.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|solutionrelative:logs\\elkstack\\docker-elk\\logstash\\pipeline\\logstash.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|d:\\github\\dotnet-core-code-showcase\\memorycache\\memory-cache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A78540B8-80D8-41AF-9200-FF9C7F2FAA94}|MemoryCache\\Memory-Cache\\Memory-Cache.csproj|solutionrelative:memorycache\\memory-cache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\elkstack\\logstash\\pipeline\\pipeline.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|solutionrelative:logs\\elkstack\\logstash\\pipeline\\pipeline.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\elkstack\\docker-elk\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D573AED5-770B-4473-9F2E-2A3F0EE9D686}|Logs\\ELKStack\\ELKStack.csproj|solutionrelative:logs\\elkstack\\docker-elk\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{728A952D-1729-457F-A70E-690D1FAAAF5E}|Dapper\\Dapper_Sample_Code\\Dapper_Sample_Code.csproj|d:\\github\\dotnet-core-code-showcase\\dapper\\dapper_sample_code\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -34,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 106,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,59 +170,167 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SerilogExtensions.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStackApp\\SerilogExtensions.cs",
+              "RelativeDocumentMoniker": "Logs\\ELKStackApp\\SerilogExtensions.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStackApp\\SerilogExtensions.cs",
+              "RelativeToolTip": "Logs\\ELKStackApp\\SerilogExtensions.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:05:21.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStackApp\\Program.cs",
+              "RelativeDocumentMoniker": "Logs\\ELKStackApp\\Program.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStackApp\\Program.cs",
+              "RelativeToolTip": "Logs\\ELKStackApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:05:19.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStackApp\\appsettings.json",
+              "RelativeDocumentMoniker": "Logs\\ELKStackApp\\appsettings.json",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStackApp\\appsettings.json*",
+              "RelativeToolTip": "Logs\\ELKStackApp\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T11:04:00.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "logstash.yml",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-elk\\logstash\\config\\logstash.yml",
+              "RelativeDocumentMoniker": "Logs\\ELKStack\\docker-elk\\logstash\\config\\logstash.yml",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-elk\\logstash\\config\\logstash.yml",
+              "RelativeToolTip": "Logs\\ELKStack\\docker-elk\\logstash\\config\\logstash.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-15T06:54:55.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-elk\\logstash\\Dockerfile",
+              "RelativeDocumentMoniker": "Logs\\ELKStack\\docker-elk\\logstash\\Dockerfile",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-elk\\logstash\\Dockerfile",
+              "RelativeToolTip": "Logs\\ELKStack\\docker-elk\\logstash\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-15T06:54:53.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "logstash.conf",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-elk\\logstash\\pipeline\\logstash.conf",
+              "RelativeDocumentMoniker": "Logs\\ELKStack\\docker-elk\\logstash\\pipeline\\logstash.conf",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-elk\\logstash\\pipeline\\logstash.conf",
+              "RelativeToolTip": "Logs\\ELKStack\\docker-elk\\logstash\\pipeline\\logstash.conf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-15T06:54:44.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "entrypoint.sh",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-elk\\setup\\entrypoint.sh",
+              "RelativeDocumentMoniker": "Logs\\ELKStack\\docker-elk\\setup\\entrypoint.sh",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-elk\\setup\\entrypoint.sh",
+              "RelativeToolTip": "Logs\\ELKStack\\docker-elk\\setup\\entrypoint.sh",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-09-15T07:05:06.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-elk\\docker-compose.yml",
+              "RelativeDocumentMoniker": "Logs\\ELKStack\\docker-elk\\docker-compose.yml",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-elk\\docker-compose.yml",
+              "RelativeToolTip": "Logs\\ELKStack\\docker-elk\\docker-compose.yml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwCUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-15T03:28:38.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": ".env",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-elk\\.env",
               "RelativeDocumentMoniker": "Logs\\ELKStack\\docker-elk\\.env",
               "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-elk\\.env",
               "RelativeToolTip": "Logs\\ELKStack\\docker-elk\\.env",
-              "ViewState": "AgIAABMAAAAAAAAAAAAuwBkAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBQAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-14T10:38:51.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T10:38:51.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "github-docker-elk.txt",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\github-docker-elk.txt",
               "RelativeDocumentMoniker": "Logs\\ELKStack\\github-docker-elk.txt",
               "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\github-docker-elk.txt",
               "RelativeToolTip": "Logs\\ELKStack\\github-docker-elk.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-09-14T10:37:58.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "lib.sh",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-elk\\setup\\lib.sh",
+              "RelativeDocumentMoniker": "Logs\\ELKStack\\docker-elk\\setup\\lib.sh",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-elk\\setup\\lib.sh",
+              "RelativeToolTip": "Logs\\ELKStack\\docker-elk\\setup\\lib.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwPAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-09-15T07:05:32.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "pipeline.conf",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\logstash\\pipeline\\pipeline.conf",
               "RelativeDocumentMoniker": "Logs\\ELKStack\\logstash\\pipeline\\pipeline.conf",
               "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\logstash\\pipeline\\pipeline.conf",
               "RelativeToolTip": "Logs\\ELKStack\\logstash\\pipeline\\pipeline.conf",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-14T10:18:34.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T10:18:34.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-compose.yml",
               "RelativeDocumentMoniker": "Logs\\ELKStack\\docker-compose.yml",
               "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\docker-compose.yml",
               "RelativeToolTip": "Logs\\ELKStack\\docker-compose.yml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-14T10:18:06.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T10:18:06.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Dapper\\Dapper_Sample_Code\\appsettings.json",
               "RelativeDocumentMoniker": "Dapper\\Dapper_Sample_Code\\appsettings.json",
@@ -198,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\MemoryCache\\Memory-Cache\\Program.cs",
               "RelativeDocumentMoniker": "MemoryCache\\Memory-Cache\\Program.cs",
@@ -206,8 +350,7 @@
               "RelativeToolTip": "MemoryCache\\Memory-Cache\\Program.cs",
               "ViewState": "AgIAADYAAAAAAAAAAADwv0kAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T08:00:51.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T08:00:51.323Z"
             }
           ]
         },

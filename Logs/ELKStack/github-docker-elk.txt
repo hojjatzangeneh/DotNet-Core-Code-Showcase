@@ -1,2 +1,5 @@
 ﻿https://www.youtube.com/watch?v=Xff3dBZfPTk
 https://github.com/stacktrekker/docker-elk.git
+
+https://www.youtube.com/watch?v=NHdwxgmMl3s
+ https://github.com/MeladKamari/SerilogElasticKibana.git
