@@ -1,59 +1,56 @@
-using Microsoft.Extensions.Primitives;
+using Elastic.Clients.Elasticsearch;
 
-using Serilog;
-using Serilog.Context;
+using ELKStackApp.Models;
+using ELKStackApp.Services;
+
+using Microsoft.OpenApi.Models;
 
 WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
-builder.Logging.ClearProviders();
-builder.Host.AddSerilog();
-IServiceCollection services = builder.Services;
-services.AddEndpointsApiExplorer();
-services.AddControllers();
 
+// Add services to the container.
+Uri node = new Uri("http://localhost:9200");
+
+// If you need authentication
+ElasticsearchClientSettings settings = new ElasticsearchClientSettings(node)
+    // .Authentication(new BasicAuthentication("elastic" , "your_password"))
+    .DefaultIndex("esdemo"); // optional
+
+ElasticsearchClient client = new ElasticsearchClient(settings);
+
+builder.Services.AddSingleton<ElasticsearchClient>(client);
+
+builder.Services.AddControllers();
+// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
+builder.Services.AddOpenApi();
+builder.Services
+    .AddSwaggerGen(
+        c => c.SwaggerDoc(
+            "v1",
+            new OpenApiInfo
+            {
+                Title = "My API",
+                Version = "v1"
+            }));
+builder.Services.AddScoped<IElasticSearchService<MyDocument>, ElasticSearchService<MyDocument>>();
 WebApplication app = builder.Build();
-app.Use(
-    async (context, next) =>
-    {
-        StringValues userId = context.Request.Headers["UserId"]!;
-        using(LogContext.PushProperty("UserId", userId))
+
+// Configure the HTTP request pipeline.
+if(app.Environment.IsDevelopment())
+{
+    app.MapOpenApi();
+    app.UseSwagger();                 // generates swagger.json
+    app.UseSwaggerUI(
+        c =>             // swagger UI at /swagger
         {
-            await next.Invoke();
-        }
-    });
-app.UseSerilogRequestLogging();
+            c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+            c.RoutePrefix = string.Empty; // host UI at root (/)
+        });
+}
 
 app.UseHttpsRedirection();
-app.MapGet(
-    "/",
-    (ILogger<Program> logger) =>
-    {
-        logger.LogInformation("Section 01");
-        string[] summaries = new[]
-        {
-            "Freezing",
-            "Bracing",
-            "Chilly",
-            "Cool",
-            "Mild",
-            "Warm",
-            "Balmy",
-            "Hot",
-            "Sweltering",
-            "Scorching"
-        };
-        logger.LogInformation("Section 02");
-        WeatherForecastDto[] forecast = Enumerable.Range(1, 5)
-            .Select(
-                index =>
-                new WeatherForecastDto(
-                        DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-                        Random.Shared.Next(-20, 55),
-                        summaries[Random.Shared.Next(summaries.Length)]))
-            .ToArray();
-        logger.LogInformation("Section 03");
-        return forecast;
-    })
-    .WithName("GetWeatherForecast")
-    .WithOpenApi();
+
+app.UseAuthorization();
+
 app.MapControllers();
+
 app.Run();

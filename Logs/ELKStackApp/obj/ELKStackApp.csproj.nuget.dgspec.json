@@ -51,13 +51,17 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Elasticsearch.Net": {
+            "Elastic.Clients.Elasticsearch": {
               "target": "Package",
-              "version": "[7.17.5, )"
+              "version": "[8.19.6, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.8, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.22.1, )"
             },
             "Serilog": {
               "target": "Package",
@@ -79,10 +83,6 @@
               "target": "Package",
               "version": "[4.0.0, )"
             },
-            "Serilog.Formatting.Compact": {
-              "target": "Package",
-              "version": "[3.0.0, )"
-            },
             "Serilog.Sinks.Console": {
               "target": "Package",
               "version": "[6.0.0, )"
@@ -94,6 +94,10 @@
             "Serilog.Sinks.File": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             }
           },
           "imports": [
@@ -115,7 +119,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

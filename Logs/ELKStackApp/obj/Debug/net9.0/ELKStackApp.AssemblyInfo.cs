@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("f4efc05d-fadb-4f04-9121-4d771a7daa49")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ELKStackApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e5d5944f63d2f31899e91955256b97cd5880ed5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b74967ed0ed3b66b329d7b2e54a32cde7028a69a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ELKStackApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ELKStackApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
