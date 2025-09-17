@@ -18,6 +18,7 @@ ElasticsearchClientSettings settings = new ElasticsearchClientSettings(node)
 ElasticsearchClient client = new ElasticsearchClient(settings);
 
 builder.Services.AddSingleton<ElasticsearchClient>(client);
+builder.Services.AddScoped<IElasticSearchService<MyDocument>, ElasticSearchService<MyDocument>>();
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
@@ -31,7 +32,6 @@ builder.Services
                 Title = "My API",
                 Version = "v1"
             }));
-builder.Services.AddScoped<IElasticSearchService<MyDocument>, ElasticSearchService<MyDocument>>();
 WebApplication app = builder.Build();
 
 // Configure the HTTP request pipeline.

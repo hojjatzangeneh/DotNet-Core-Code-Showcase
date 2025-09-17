@@ -1,0 +1,122 @@
+﻿version: "3.9"
+
+services:
+  grafana:
+    image: grafana/grafana-enterprise:latest  # می‌تونی به نسخه مشخص پین کنی
+    container_name: grafana
+    restart: unless-stopped
+    ports:
+      - "4000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_USERS_ALLOW_SIGN_UP=false
+      - GF_SERVER_ROOT_URL=http://localhost:3000
+      # اگر ایمیج رندر می‌خوای، این‌ها رو با سرویس renderer ست کن:
+      # - GF_RENDERING_SERVER_URL=http://renderer:8081/render
+      # - GF_RENDERING_CALLBACK_URL=http://grafana:3000/
+      # پلاگین‌های پیشنهادی (اختیاری)
+      - GF_PLUGINS_PREINSTALL=grafana-clock-panel,grafana-piechart-panel
+    volumes:
+      - grafana-data:/var/lib/grafana
+      - ./grafana/provisioning:/etc/grafana/provisioning
+      - ./grafana/dashboards:/var/lib/grafana/dashboards
+    depends_on:
+      - prometheus
+      - loki
+      - tempo
+    networks:
+      - monitor
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    restart: unless-stopped
+    command:
+      - "--config.file=/etc/prometheus/prometheus.yml"
+      - "--storage.tsdb.retention.time=15d"
+      - "--web.enable-lifecycle"
+    ports:
+      - "8099:9090"
+    volumes:
+      - prometheus-data:/prometheus
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    networks:
+      - monitor
+
+  loki:
+    image: grafana/loki:latest
+    container_name: loki
+    restart: unless-stopped
+    command: [ "-config.file=/etc/loki/config.yml" ]
+    ports:
+      - "8130:3100"
+    volumes:
+      - loki-data:/loki
+      - ./loki/config.yml:/etc/loki/config.yml:ro
+    networks:
+      - monitor
+
+  promtail:
+    image: grafana/promtail:latest
+    container_name: promtail
+    restart: unless-stopped
+    command: [ "-config.file=/etc/promtail/config.yml" ]
+    volumes:
+      - /var/log:/var/log:ro
+      - /var/lib/docker/containers:/var/lib/docker/containers:ro
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ./promtail/config.yml:/etc/promtail/config.yml:ro
+    networks:
+      - monitor
+    depends_on:
+      - loki
+
+  tempo:
+    image: grafana/tempo:latest
+    container_name: tempo
+    restart: unless-stopped
+    command: [ "-config.file=/etc/tempo/tempo.yml" ]
+    ports:
+      - "8200:3200"   # HTTP API/Query
+      - "8317:4317"   # OTLP gRPC
+      - "8318:4318"   # OTLP HTTP
+    volumes:
+      - tempo-data:/var/tempo
+      - ./tempo/tempo.yml:/etc/tempo/tempo.yml:ro
+    networks:
+      - monitor
+
+  cadvisor:
+    image: gcr.io/cadvisor/cadvisor:latest
+    container_name: cadvisor
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    volumes:
+      - /:/rootfs:ro
+      - /var/run:/var/run:ro
+      - /sys:/sys:ro
+      - /var/lib/docker/:/var/lib/docker:ro
+    networks:
+      - monitor
+
+  # اختیاری: رندر تصاویر پنل‌ها
+  # renderer:
+  #   image: grafana/grafana-image-renderer:latest
+  #   container_name: grafana-image-renderer
+  #   restart: unless-stopped
+  #   expose:
+  #     - "8081"
+  #   networks:
+  #     - monitor
+
+volumes:
+  grafana-data: {}
+  prometheus-data: {}
+  loki-data: {}
+  tempo-data: {}
+
+networks:
+  monitor:
+    driver: bridge
