@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrafanaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baebb9f1e1018051eef20b7418cb9e388f8ff7d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68bca17946a6b851ed62cd9d60b2d0e7ea9c0f46")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrafanaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrafanaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
