@@ -5,10 +5,10 @@ namespace GrafanaApp.Controllers;
 
 [ApiController]
 [Route("[controller]")]
-public class WeatherForecastController : ControllerBase
+public class WeatherForecastController(ILogger<WeatherForecastController> logger) : ControllerBase
 {
-    static readonly string[] Summaries = new[]
-    {
+    static readonly string[] Summaries =
+    [
         "Freezing",
         "Bracing",
         "Chilly",
@@ -19,19 +19,12 @@ public class WeatherForecastController : ControllerBase
         "Hot",
         "Sweltering",
         "Scorching"
-    };
-
-    readonly ILogger<WeatherForecastController> _logger;
-
-    public WeatherForecastController(ILogger<WeatherForecastController> logger)
-    {
-        _logger = logger;
-    }
+    ];
 
     [HttpGet(Name = "GetWeatherForecast")]
     public IEnumerable<WeatherForecast> Get()
     {
-        _logger.LogInformation("WeatherForecast/Get called at {Time}", DateTime.UtcNow);
+        logger.LogInformation("WeatherForecast/Get called at {Time}", DateTime.UtcNow);
 
         WeatherForecast[] result = Enumerable.Range(1, 5)
             .Select(
@@ -43,11 +36,11 @@ public class WeatherForecastController : ControllerBase
                 })
             .ToArray();
 
-        _logger.LogInformation("Generated {Count} weather records", result.Length);
-        _logger.LogDebug("پیام دیباگ");
-        _logger.LogInformation("درخواست جدید برای WeatherForecast");
-        _logger.LogWarning("هشدار! دما خیلی بالا بود: {Temp}", "temp");
-        _logger.LogError("خطا هنگام دریافت اطلاعات: {Error}", "ex.Message");
+        logger.LogInformation("Generated {Count} weather records", result.Length);
+        logger.LogDebug("پیام دیباگ");
+        logger.LogInformation("درخواست جدید برای WeatherForecast");
+        logger.LogWarning("هشدار! دما خیلی بالا بود: {Temp}", "temp");
+        logger.LogError("خطا هنگام دریافت اطلاعات: {Error}", "ex.Message");
 
         return result;
     }

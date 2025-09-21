@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsyncHttpUtils")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baebb9f1e1018051eef20b7418cb9e388f8ff7d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a3c7f347204625ce6107a272e450e4792872495")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsyncHttpUtils")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsyncHttpUtils")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

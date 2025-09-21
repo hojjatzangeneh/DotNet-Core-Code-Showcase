@@ -1,0 +1,135 @@
+﻿version: "3.9"
+
+services:
+  zookeeper:
+    image: bitnami/zookeeper:3.8
+    container_name: zookeeper
+    restart: unless-stopped
+    environment:
+      - ZOO_ENABLE_AUTH=no
+      - ZOO_PORT_NUMBER=${ZOOKEEPER_PORT}
+      # برای exporter باید 4lw فعال باشه و mntr در whitelist باشد
+      - ZOO_4LW_COMMANDS_WHITELIST=ruok,mntr,srvr,conf,stat
+      - ALLOW_ANONYMOUS_LOGIN=yes
+    ports:
+      - "${ZOOKEEPER_PORT}:2181"
+    volumes:
+      - zookeeper_data:/bitnami/zookeeper
+    networks:
+      - kafka-net
+
+  kafka:
+    image: bitnami/kafka:3.7
+    container_name: kafka
+    restart: unless-stopped
+    depends_on:
+      - zookeeper
+    ports:
+      - "${KAFKA_PORT}:9092"       # برای کلاینت‌های خارج از داکر
+      - "${KAFKA_INTERNAL_PORT}:29092" # برای ارتباط داخلی سرویس‌ها
+    environment:
+      # اتصال به ZooKeeper
+      - KAFKA_CFG_ZOOKEEPER_CONNECT=zookeeper:${ZOOKEEPER_PORT}
+      # شناسه بروکر
+      - KAFKA_BROKER_ID=1
+      # Listener ها (داخلی/خارجی)
+      - KAFKA_CFG_LISTENERS=PLAINTEXT://:9092,PLAINTEXT_INTERNAL://:29092
+      - KAFKA_CFG_ADVERTISED_LISTENERS=PLAINTEXT://${HOSTNAME_FOR_CLIENT}:${KAFKA_PORT},PLAINTEXT_INTERNAL://kafka:${KAFKA_INTERNAL_PORT}
+      - KAFKA_CFG_LISTENER_SECURITY_PROTOCOL_MAP=PLAINTEXT:PLAINTEXT,PLAINTEXT_INTERNAL:PLAINTEXT
+      - KAFKA_CFG_INTER_BROKER_LISTENER_NAME=PLAINTEXT_INTERNAL
+      # تنظیمات کاربردی پیش‌فرض
+      - KAFKA_CFG_AUTO_CREATE_TOPICS_ENABLE=true
+      - KAFKA_CFG_NUM_PARTITIONS=3
+      - KAFKA_CFG_DEFAULT_REPLICATION_FACTOR=1
+      - ALLOW_PLAINTEXT_LISTENER=yes
+      # JMX برای نیازهای آینده (اختیاری)
+      - JMX_PORT=9999
+      - KAFKA_JMX_PORT=9999
+      - KAFKA_JMX_HOSTNAME=kafka
+    volumes:
+      - kafka_data:/bitnami/kafka
+    networks:
+      - kafka-net
+
+  # داشبورد مدیریتی Kafka
+  kafka-ui:
+    image: provectuslabs/kafka-ui:latest
+    container_name: kafka-ui
+    restart: unless-stopped
+    depends_on:
+      - kafka
+    ports:
+      - "${KAFKA_UI_PORT}:8080"
+    environment:
+      KAFKA_CLUSTERS_0_NAME: ${KAFKA_CLUSTER_NAME}
+      KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS: kafka:${KAFKA_INTERNAL_PORT}
+      KAFKA_CLUSTERS_0_ZOOKEEPER: zookeeper:${ZOOKEEPER_PORT}
+    networks:
+      - kafka-net
+
+  # Kafka Exporter برای Prometheus
+  kafka-exporter:
+    image: danielqsj/kafka-exporter:latest
+    container_name: kafka-exporter
+    restart: unless-stopped
+    depends_on:
+      - kafka
+    command:
+      - --kafka.server=kafka:${KAFKA_INTERNAL_PORT}
+    ports:
+      - "9308:9308"
+    networks:
+      - kafka-net
+
+  # ZooKeeper Exporter جایگزینِ قابل‌اعتماد
+  zookeeper-exporter:
+    image: carlpett/zookeeper_exporter:latest
+    container_name: zookeeper-exporter
+    restart: unless-stopped
+    depends_on:
+      - zookeeper
+    command: ["-zookeeper", "zookeeper:${ZOOKEEPER_PORT}", "-listen", ":9141"]
+    ports:
+      - "9141:9141"
+    networks:
+      - kafka-net
+
+  # Prometheus برای جمع‌آوری متریک‌ها
+  prometheus:
+    image: prom/prometheus:latest
+   # container_name: prometheus
+    restart: unless-stopped
+    depends_on:
+      - kafka-exporter
+      - zookeeper-exporter
+    ports:
+      - "${PROMETHEUS_PORT}:9090"
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    networks:
+      - kafka-net
+
+  # Grafana برای داشبوردهای حرفه‌ای
+  grafana:
+    image: grafana/grafana:latest
+   # container_name: grafana
+    restart: unless-stopped
+    depends_on:
+      - prometheus
+    ports:
+      - "${GRAFANA_PORT}:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=${GRAFANA_ADMIN_USER}
+      - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_ADMIN_PASSWORD}
+    volumes:
+      - grafana_data:/var/lib/grafana
+    networks:
+      - kafka-net
+
+networks:
+  kafka-net:
+
+volumes:
+  zookeeper_data:
+  kafka_data:
+  grafana_data:
