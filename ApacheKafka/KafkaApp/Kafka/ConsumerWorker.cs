@@ -6,18 +6,11 @@ using Microsoft.Extensions.Options;
 
 namespace KafkaApp.Kafka;
 
-public sealed class ConsumerWorker : BackgroundService
+public sealed class ConsumerWorker(IOptions<KafkaSettings> opt, MessageBuffer buffer) : BackgroundService
 {
-    readonly MessageBuffer _buffer;
-    readonly KafkaSettings _settings;
+    readonly KafkaSettings _settings = opt.Value;
 
-    public ConsumerWorker(IOptions<KafkaSettings> opt, MessageBuffer buffer)
-    {
-        _settings = opt.Value;
-        _buffer = buffer;
-    }
-
-    protected override async Task ExecuteAsync(CancellationToken stoppingToken)
+    void RunLoop(CancellationToken stoppingToken)
     {
         ConsumerConfig conf = new()
         {
@@ -25,13 +18,16 @@ public sealed class ConsumerWorker : BackgroundService
             GroupId = _settings.GroupId,
             EnableAutoCommit = false,
             AutoOffsetReset =
-                (_settings.AutoOffsetReset?.ToLower() == "earliest") ? AutoOffsetReset.Earliest : AutoOffsetReset.Latest,
+                (_settings.AutoOffsetReset?.ToLower() == "earliest")
+                    ? AutoOffsetReset.Earliest
+                    : AutoOffsetReset.Latest,
             PartitionAssignmentStrategy = PartitionAssignmentStrategy.CooperativeSticky,
-            ClientId = "kafka-dotnet-demo-consumer"
+            ClientId = "kafka-dotnet-demo-consumer",
+            SocketKeepaliveEnable = true
         };
 
         using IConsumer<string, string> consumer = new ConsumerBuilder<string, string>(conf)
-        .SetErrorHandler((_, e) => Console.WriteLine($"[CONSUMER ERROR] {e.Reason}"))
+            .SetErrorHandler((_, e) => Console.WriteLine($"[CONSUMER ERROR] {e.Reason}"))
             .SetPartitionsAssignedHandler(
                 (c, parts) => Console.WriteLine($"[REBALANCE ASSIGNED] {string.Join("," , parts)}"))
             .SetPartitionsRevokedHandler(
@@ -54,7 +50,7 @@ public sealed class ConsumerWorker : BackgroundService
                         continue;
                     }
 
-                    _buffer.Add(
+                    buffer.Add(
                         new ConsumedMessage
                         {
                             Topic = cr.Topic,
@@ -86,7 +82,15 @@ public sealed class ConsumerWorker : BackgroundService
             {
             }
         }
+    }
 
-        await Task.CompletedTask;
+    protected override Task ExecuteAsync(CancellationToken stoppingToken)
+    {
+        return Task.Factory
+            .StartNew(
+                () => RunLoop(stoppingToken),
+                stoppingToken,
+                TaskCreationOptions.LongRunning,
+                TaskScheduler.Default);
     }
 }

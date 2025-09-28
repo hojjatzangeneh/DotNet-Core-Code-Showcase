@@ -13,7 +13,7 @@ public sealed class KafkaSettings
 
     public string? Compression { get; set; } = "snappy";
 
-    public int ConsumeBufferCapacity { get; set; } = 1000;
+    public int ConsumeBufferCapacity { get; set; } = 500;
 
     public string? DefaultTopic { get; set; } = "test";
 

@@ -1,5 +1,4 @@
-﻿
-using Confluent.Kafka;
+﻿using Confluent.Kafka;
 using Confluent.Kafka.Admin;
 
 using KafkaApp.Kafka;
@@ -39,7 +38,7 @@ builder.Services
         });
 
 // Kestrel را مجبور کن روی 5000 گوش بده
-builder.WebHost.UseUrls("http://localhost:5000");
+builder.WebHost.UseUrls("http://0.0.0.0:5000");
 
 // Producer (Singleton)
 builder.Services
@@ -136,7 +135,7 @@ api.MapPost(
             await admin.CreateTopicsAsync(new[] { spec });
             return Results.Ok(new { created = req.Name });
         }
-    catch(CreateTopicsException ex) when ( ex.Results.Any(r => r.Error.Code == ErrorCode.TopicAlreadyExists) )
+        catch(CreateTopicsException ex) when ( ex.Results.Any(r => r.Error.Code == ErrorCode.TopicAlreadyExists) )
         {
             return Results.Conflict(new { error = "Topic already exists" });
         }
@@ -173,7 +172,7 @@ api.MapPost(
                 });
             return Results.Ok(new { topic, partition = dr.Partition.Value, offset = dr.Offset.Value });
         }
-    catch(ProduceException<string, string> ex)
+        catch(ProduceException<string, string> ex)
         {
             return Results.Problem(title: "Produce failed", detail: ex.Error.Reason);
         }
@@ -201,6 +200,38 @@ app.MapGet(
                 "GET /health/ready"
             }
         }));
+// خواندن + حذف از بافر (drain)
+api.MapPost(
+    "/messages/drain",
+    (MessageBuffer buf, int? take) =>
+    {
+        IReadOnlyList<ConsumedMessage> items = buf.Drain(take ?? 100);
+        return Results.Ok(items);
+    })
+    .WithName("DrainMessages")
+    .WithSummary("Read and remove messages from in-memory buffer");
+
+// فقط حذف از بافر
+api.MapDelete(
+    "/messages",
+    (MessageBuffer buf, int? take) =>
+    {
+        int removed = buf.Clear(take);
+        return Results.Ok(new { removed });
+    })
+    .WithName("ClearMessages")
+    .WithSummary("Remove messages from in-memory buffer");
+
+// تغییر ظرفیت بافر در runtime (اختیاری)
+api.MapPost(
+    "/messages/capacity",
+    (MessageBuffer buf, int capacity) =>
+    {
+        buf.SetCapacity(capacity);
+        return Results.Ok(new { capacity });
+    })
+    .WithName("SetMessageBufferCapacity")
+    .WithSummary("Set in-memory buffer capacity");
 
 // لاگ URLها
 app.Logger.LogInformation("Listening on: {urls}", string.Join(", ", app.Urls));

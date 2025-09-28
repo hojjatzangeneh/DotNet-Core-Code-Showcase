@@ -88,7 +88,7 @@ services:
     restart: unless-stopped
     depends_on:
       - zookeeper
-    command: ["-zookeeper", "zookeeper:${ZOOKEEPER_PORT}", "-listen", ":9141"]
+    command: ["-zookeeper", "zookeeper:${ZOOKEEPER_PORT}"] 
     ports:
       - "9141:9141"
     networks:

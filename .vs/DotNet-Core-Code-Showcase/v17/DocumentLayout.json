@@ -3,27 +3,51 @@
   "WorkspaceRootPath": "D:\\Github\\DotNet-Core-Code-Showcase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\kafka\\messagebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\kafka\\messagebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\models\\consumedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\models\\consumedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\kafka\\consumerworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\kafka\\consumerworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\kafka\\kafkasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\kafka\\kafkasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafka\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|solutionrelative:apachekafka\\kafka\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafka\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|solutionrelative:apachekafka\\kafka\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\kafka\\kafkapinghealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\kafka\\kafkapinghealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafka\\prometheus\\prometheus.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|solutionrelative:apachekafka\\kafka\\prometheus\\prometheus.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\kafkaapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\kafkaapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\kafka\\kafkapinghealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\kafka\\kafkapinghealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\kafkaapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\kafkaapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\kafkaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,36 +58,12 @@
       "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\kafka\\consumerworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\kafka\\consumerworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\models\\createtopicrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\models\\createtopicrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\models\\consumedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\models\\consumedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\kafka\\messagebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\kafka\\messagebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\models\\producerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\models\\producerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafka\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|solutionrelative:apachekafka\\kafka\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafka\\prometheus\\prometheus.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|solutionrelative:apachekafka\\kafka\\prometheus\\prometheus.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafka\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|solutionrelative:apachekafka\\kafka\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EEE24C27-28F9-4E77-B0DE-16324D1DBADD}|Logs\\GrafanaApp\\GrafanaApp.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\grafanaapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -270,122 +270,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAPgUAAAAAAAAAAAIwBIVAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-09-21T11:28:04.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Program.cs",
-              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Program.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Program.cs",
-              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Program.cs",
-              "ViewState": "AgIAAM0AAAAAAAAAAAAjwI4AAAAFAAAAAAAAAA==",
+              "Title": "MessageBuffer.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\MessageBuffer.cs",
+              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Kafka\\MessageBuffer.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\MessageBuffer.cs",
+              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Kafka\\MessageBuffer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T10:07:05.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\appsettings.json",
-              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\appsettings.json",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\appsettings.json",
-              "RelativeToolTip": "ApacheKafka\\KafkaApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-21T10:07:58.705Z",
+              "WhenOpened": "2025-09-28T11:03:38.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-21T10:42:11.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ConsumedMessage.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Models\\ConsumedMessage.cs",
-              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Models\\ConsumedMessage.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Models\\ConsumedMessage.cs",
-              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Models\\ConsumedMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T10:11:38.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "KafkaSettings.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
-              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
-              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T10:38:08.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "ConsumerWorker.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\ConsumerWorker.cs",
               "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Kafka\\ConsumerWorker.cs",
               "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\ConsumerWorker.cs",
               "RelativeToolTip": "ApacheKafka\\KafkaApp\\Kafka\\ConsumerWorker.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAtwDkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T10:12:11.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "KafkaApp",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\KafkaApp.csproj",
               "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\KafkaApp.csproj",
               "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\KafkaApp.csproj",
               "RelativeToolTip": "ApacheKafka\\KafkaApp\\KafkaApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-21T11:20:11.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T11:20:11.711Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "KafkaApp",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\KafkaApp.csproj",
-              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\KafkaApp.csproj",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\KafkaApp.csproj",
-              "RelativeToolTip": "ApacheKafka\\KafkaApp\\KafkaApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-21T10:34:04.81Z",
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\docker-compose.yml",
+              "RelativeDocumentMoniker": "ApacheKafka\\Kafka\\docker-compose.yml",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\docker-compose.yml",
+              "RelativeToolTip": "ApacheKafka\\Kafka\\docker-compose.yml",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAIwFoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-21T08:53:22.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "prometheus.yml",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\prometheus\\prometheus.yml",
+              "RelativeDocumentMoniker": "ApacheKafka\\Kafka\\prometheus\\prometheus.yml",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\prometheus\\prometheus.yml",
+              "RelativeToolTip": "ApacheKafka\\Kafka\\prometheus\\prometheus.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-21T08:53:46.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "KafkaPingHealthCheck.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\KafkaPingHealthCheck.cs",
               "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Kafka\\KafkaPingHealthCheck.cs",
@@ -398,7 +345,108 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".env",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\.env",
+              "RelativeDocumentMoniker": "ApacheKafka\\Kafka\\.env",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\.env",
+              "RelativeToolTip": "ApacheKafka\\Kafka\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-21T08:54:04.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsumedMessage.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Models\\ConsumedMessage.cs",
+              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Models\\ConsumedMessage.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Models\\ConsumedMessage.cs",
+              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Models\\ConsumedMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:11:38.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Program.cs",
+              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Program.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Program.cs*",
+              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Program.cs*",
+              "ViewState": "AgIAALoAAAAAAAAAAAAiwM0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:07:05.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KafkaSettings.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
+              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
+              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:38:08.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-21T10:42:11.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\appsettings.json",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\appsettings.json",
+              "RelativeToolTip": "ApacheKafka\\KafkaApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-21T10:07:58.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAPgUAAAAAAAAAAAIwP0UAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-21T11:28:04.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KafkaApp.csproj",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\KafkaApp.csproj",
+              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\KafkaApp.csproj",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\KafkaApp.csproj",
+              "RelativeToolTip": "ApacheKafka\\KafkaApp\\KafkaApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-21T10:34:04.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "CreateTopicRequest.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Models\\CreateTopicRequest.cs",
               "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Models\\CreateTopicRequest.cs",
@@ -406,12 +454,11 @@
               "RelativeToolTip": "ApacheKafka\\KafkaApp\\Models\\CreateTopicRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T10:10:10.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T10:10:10.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ProduceRequest.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Models\\ProduceRequest.cs",
               "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Models\\ProduceRequest.cs",
@@ -419,60 +466,7 @@
               "RelativeToolTip": "ApacheKafka\\KafkaApp\\Models\\ProduceRequest.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAuwCMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T10:11:22.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MessageBuffer.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\MessageBuffer.cs",
-              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Kafka\\MessageBuffer.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\MessageBuffer.cs",
-              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Kafka\\MessageBuffer.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvx4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T10:11:54.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": ".env",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\.env",
-              "RelativeDocumentMoniker": "ApacheKafka\\Kafka\\.env",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\.env",
-              "RelativeToolTip": "ApacheKafka\\Kafka\\.env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-21T08:54:04.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "prometheus.yml",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\prometheus\\prometheus.yml",
-              "RelativeDocumentMoniker": "ApacheKafka\\Kafka\\prometheus\\prometheus.yml",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\prometheus\\prometheus.yml",
-              "RelativeToolTip": "ApacheKafka\\Kafka\\prometheus\\prometheus.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-21T08:53:46.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\docker-compose.yml",
-              "RelativeDocumentMoniker": "ApacheKafka\\Kafka\\docker-compose.yml",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\docker-compose.yml",
-              "RelativeToolTip": "ApacheKafka\\Kafka\\docker-compose.yml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAIwHIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-21T08:53:22.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T10:11:22.13Z"
             },
             {
               "$type": "Document",
@@ -484,8 +478,7 @@
               "RelativeToolTip": "Logs\\GrafanaApp\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAiwCcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T10:49:46.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T10:49:46.692Z"
             },
             {
               "$type": "Document",
@@ -497,8 +490,7 @@
               "RelativeToolTip": "Logs\\Grafana\\prometheus\\prometheus.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-17T10:05:14.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T10:05:14.62Z"
             },
             {
               "$type": "Document",
@@ -510,8 +502,7 @@
               "RelativeToolTip": "Logs\\Grafana\\grafana\\provisioning\\dashboards\\dashboards.yaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-17T10:03:00.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T10:03:00.285Z"
             },
             {
               "$type": "Document",
@@ -523,8 +514,7 @@
               "RelativeToolTip": "Logs\\Grafana\\docker-compose.yml",
               "ViewState": "AgIAACcAAAAAAAAAAAAgwDQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-17T09:58:54.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T09:58:54.296Z"
             },
             {
               "$type": "Document",
@@ -536,8 +526,7 @@
               "RelativeToolTip": "Logs\\Grafana\\grafana\\provisioning\\datasources\\datasource.yaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-17T10:02:38.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T10:02:38.89Z"
             },
             {
               "$type": "Document",
@@ -549,8 +538,7 @@
               "RelativeToolTip": "Logs\\GrafanaApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-20T04:02:14.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T04:02:14.547Z"
             },
             {
               "$type": "Document",
@@ -562,8 +550,7 @@
               "RelativeToolTip": "Logs\\Grafana\\promtail\\config.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-17T10:06:19.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T10:06:19.288Z"
             },
             {
               "$type": "Document",
@@ -575,8 +562,7 @@
               "RelativeToolTip": "Logs\\GrafanaApp\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T10:45:33.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T10:45:33.463Z"
             },
             {
               "$type": "Document",
@@ -588,8 +574,7 @@
               "RelativeToolTip": "Logs\\Grafana\\tempo\\tempo.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-17T10:05:59.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T10:05:59.772Z"
             },
             {
               "$type": "Document",
@@ -601,8 +586,7 @@
               "RelativeToolTip": "Logs\\Grafana\\loki\\config.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-17T10:05:35.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T10:05:35.336Z"
             },
             {
               "$type": "Document",
@@ -614,8 +598,7 @@
               "RelativeToolTip": "Logs\\GrafanaApp\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T03:56:13.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T03:56:13.678Z"
             },
             {
               "$type": "Document",
@@ -627,8 +610,7 @@
               "RelativeToolTip": "Logs\\SplunkApp\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T05:22:04.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T05:22:04.131Z"
             },
             {
               "$type": "Document",
@@ -640,8 +622,7 @@
               "RelativeToolTip": "Logs\\SplunkApp\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-17T05:28:04.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T05:28:04.856Z"
             },
             {
               "$type": "Document",
@@ -653,8 +634,7 @@
               "RelativeToolTip": "Logs\\SplunkApp\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T05:22:00.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T05:22:00.461Z"
             },
             {
               "$type": "Document",
@@ -666,8 +646,7 @@
               "RelativeToolTip": "Logs\\SplunkApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T05:21:34.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T05:21:34.812Z"
             },
             {
               "$type": "Document",
@@ -679,8 +658,7 @@
               "RelativeToolTip": "Logs\\SplunkApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-17T05:20:52.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T05:20:52.03Z"
             },
             {
               "$type": "Document",
@@ -692,8 +670,7 @@
               "RelativeToolTip": "Logs\\Splunk\\docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-17T04:40:52.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T04:40:52.788Z"
             },
             {
               "$type": "Document",
@@ -705,8 +682,7 @@
               "RelativeToolTip": "Logs\\Splunk\\.env",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-17T04:40:24.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T04:40:24.716Z"
             },
             {
               "$type": "Document",
@@ -718,8 +694,7 @@
               "RelativeToolTip": "Logs\\ELKStackApp\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAwwA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T10:31:46.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T10:31:46.528Z"
             },
             {
               "$type": "Document",
@@ -731,8 +706,7 @@
               "RelativeToolTip": "Logs\\ELKStackApp\\ELKStackApp.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-09-16T10:31:45.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T10:31:45.691Z"
             },
             {
               "$type": "Document",
@@ -744,8 +718,7 @@
               "RelativeToolTip": "Logs\\ELKStack\\github-docker-elk.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-09-16T10:16:27.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T10:16:27.573Z"
             },
             {
               "$type": "Document",
@@ -757,8 +730,7 @@
               "RelativeToolTip": "Logs\\ELKStackApp\\Models\\MyDocument.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T10:15:13.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T10:15:13.687Z"
             },
             {
               "$type": "Document",
@@ -770,8 +742,7 @@
               "RelativeToolTip": "Logs\\ELKStackApp\\Controllers\\EsController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAQwA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T10:12:48.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T10:12:48.81Z"
             },
             {
               "$type": "Document",
@@ -783,8 +754,7 @@
               "RelativeToolTip": "Logs\\ELKStackApp\\Services\\ElasticSearchService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T07:21:14.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T07:21:14.991Z"
             }
           ]
         },
