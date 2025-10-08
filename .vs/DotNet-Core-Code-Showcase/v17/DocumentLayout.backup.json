@@ -3,12 +3,68 @@
   "WorkspaceRootPath": "D:\\Github\\DotNet-Core-Code-Showcase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\kafka\\messagebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\kafka\\messagebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|d:\\github\\dotnet-core-code-showcase\\s.o.l.i.d\\foodordering\\application\\orders\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|solutionrelative:s.o.l.i.d\\foodordering\\application\\orders\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|d:\\github\\dotnet-core-code-showcase\\s.o.l.i.d\\foodordering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|solutionrelative:s.o.l.i.d\\foodordering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|d:\\github\\dotnet-core-code-showcase\\s.o.l.i.d\\foodordering\\infrastructure\\repositories\\inmemoryorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|solutionrelative:s.o.l.i.d\\foodordering\\infrastructure\\repositories\\inmemoryorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|d:\\github\\dotnet-core-code-showcase\\s.o.l.i.d\\foodordering\\infrastructure\\notifications\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|solutionrelative:s.o.l.i.d\\foodordering\\infrastructure\\notifications\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|d:\\github\\dotnet-core-code-showcase\\s.o.l.i.d\\foodordering\\infrastructure\\payments\\stripepaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|solutionrelative:s.o.l.i.d\\foodordering\\infrastructure\\payments\\stripepaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|d:\\github\\dotnet-core-code-showcase\\s.o.l.i.d\\foodordering\\application\\orders\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|solutionrelative:s.o.l.i.d\\foodordering\\application\\orders\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|d:\\github\\dotnet-core-code-showcase\\s.o.l.i.d\\foodordering\\application\\notifications\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|solutionrelative:s.o.l.i.d\\foodordering\\application\\notifications\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|d:\\github\\dotnet-core-code-showcase\\s.o.l.i.d\\foodordering\\application\\payments\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|solutionrelative:s.o.l.i.d\\foodordering\\application\\payments\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|d:\\github\\dotnet-core-code-showcase\\s.o.l.i.d\\foodordering\\application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|solutionrelative:s.o.l.i.d\\foodordering\\application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|d:\\github\\dotnet-core-code-showcase\\s.o.l.i.d\\foodordering\\application\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|solutionrelative:s.o.l.i.d\\foodordering\\application\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|d:\\github\\dotnet-core-code-showcase\\s.o.l.i.d\\foodordering\\application\\repositories\\ireadablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|solutionrelative:s.o.l.i.d\\foodordering\\application\\repositories\\ireadablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|d:\\github\\dotnet-core-code-showcase\\s.o.l.i.d\\foodordering\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|solutionrelative:s.o.l.i.d\\foodordering\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|d:\\github\\dotnet-core-code-showcase\\s.o.l.i.d\\foodordering\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|solutionrelative:s.o.l.i.d\\foodordering\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|d:\\github\\dotnet-core-code-showcase\\s.o.l.i.d\\foodordering\\domain\\entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04BC049A-BC00-4285-B854-EE0F910585F3}|S.O.L.I.D\\FoodOrdering\\FoodOrdering.csproj|solutionrelative:s.o.l.i.d\\foodordering\\domain\\entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\models\\consumedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\models\\consumedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\kafka\\consumerworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -56,10 +112,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\models\\createtopicrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\models\\createtopicrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\models\\consumedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|solutionrelative:apachekafka\\kafkaapp\\models\\consumedmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E79D072E-1200-4F4F-823A-6840AAEDEF55}|ApacheKafka\\KafkaApp\\KafkaApp.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafkaapp\\models\\producerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -169,7 +221,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 106,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -194,10 +246,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -264,64 +312,190 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Application\\Orders\\OrderService.cs",
+              "RelativeDocumentMoniker": "S.O.L.I.D\\FoodOrdering\\Application\\Orders\\OrderService.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Application\\Orders\\OrderService.cs",
+              "RelativeToolTip": "S.O.L.I.D\\FoodOrdering\\Application\\Orders\\OrderService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:08:03.657Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MessageBuffer.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\MessageBuffer.cs",
-              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Kafka\\MessageBuffer.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\MessageBuffer.cs*",
-              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Kafka\\MessageBuffer.cs*",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwEkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "EmailNotificationService.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Infrastructure\\Notifications\\EmailNotificationService.cs",
+              "RelativeDocumentMoniker": "S.O.L.I.D\\FoodOrdering\\Infrastructure\\Notifications\\EmailNotificationService.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Infrastructure\\Notifications\\EmailNotificationService.cs",
+              "RelativeToolTip": "S.O.L.I.D\\FoodOrdering\\Infrastructure\\Notifications\\EmailNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T11:03:38.458Z",
+              "WhenOpened": "2025-10-08T07:49:45.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StripePaymentProcessor.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Infrastructure\\Payments\\StripePaymentProcessor.cs",
+              "RelativeDocumentMoniker": "S.O.L.I.D\\FoodOrdering\\Infrastructure\\Payments\\StripePaymentProcessor.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Infrastructure\\Payments\\StripePaymentProcessor.cs",
+              "RelativeToolTip": "S.O.L.I.D\\FoodOrdering\\Infrastructure\\Payments\\StripePaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:49:04.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Application\\Orders\\IOrderService.cs",
+              "RelativeDocumentMoniker": "S.O.L.I.D\\FoodOrdering\\Application\\Orders\\IOrderService.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Application\\Orders\\IOrderService.cs",
+              "RelativeToolTip": "S.O.L.I.D\\FoodOrdering\\Application\\Orders\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:47:30.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Application\\Notifications\\INotificationService.cs",
+              "RelativeDocumentMoniker": "S.O.L.I.D\\FoodOrdering\\Application\\Notifications\\INotificationService.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Application\\Notifications\\INotificationService.cs",
+              "RelativeToolTip": "S.O.L.I.D\\FoodOrdering\\Application\\Notifications\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:46:54.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPaymentProcessor.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Application\\Payments\\IPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "S.O.L.I.D\\FoodOrdering\\Application\\Payments\\IPaymentProcessor.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Application\\Payments\\IPaymentProcessor.cs",
+              "RelativeToolTip": "S.O.L.I.D\\FoodOrdering\\Application\\Payments\\IPaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:45:09.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Program.cs",
-              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Program.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Program.cs",
-              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Program.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAADwv7UAAABRAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Program.cs",
+              "RelativeDocumentMoniker": "S.O.L.I.D\\FoodOrdering\\Program.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Program.cs",
+              "RelativeToolTip": "S.O.L.I.D\\FoodOrdering\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwCMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T10:07:05.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "KafkaSettings.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
-              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
-              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T10:38:08.004Z",
+              "WhenOpened": "2025-10-08T07:22:48.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ConsumerWorker.cs",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\ConsumerWorker.cs",
-              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Kafka\\ConsumerWorker.cs",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\ConsumerWorker.cs",
-              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Kafka\\ConsumerWorker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Title": "InMemoryOrderRepository.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Infrastructure\\Repositories\\InMemoryOrderRepository.cs",
+              "RelativeDocumentMoniker": "S.O.L.I.D\\FoodOrdering\\Infrastructure\\Repositories\\InMemoryOrderRepository.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Infrastructure\\Repositories\\InMemoryOrderRepository.cs",
+              "RelativeToolTip": "S.O.L.I.D\\FoodOrdering\\Infrastructure\\Repositories\\InMemoryOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T10:12:11.269Z",
+              "WhenOpened": "2025-10-08T07:50:18.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Application\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "S.O.L.I.D\\FoodOrdering\\Application\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Application\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "S.O.L.I.D\\FoodOrdering\\Application\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:44:31.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "IReadableRepository.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Application\\Repositories\\IReadableRepository.cs",
+              "RelativeDocumentMoniker": "S.O.L.I.D\\FoodOrdering\\Application\\Repositories\\IReadableRepository.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Application\\Repositories\\IReadableRepository.cs",
+              "RelativeToolTip": "S.O.L.I.D\\FoodOrdering\\Application\\Repositories\\IReadableRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:44:02.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Application\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "S.O.L.I.D\\FoodOrdering\\Application\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Application\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "S.O.L.I.D\\FoodOrdering\\Application\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:37:07.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "S.O.L.I.D\\FoodOrdering\\Domain\\Entities\\Order.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "S.O.L.I.D\\FoodOrdering\\Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:25:13.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "S.O.L.I.D\\FoodOrdering\\Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "S.O.L.I.D\\FoodOrdering\\Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:24:51.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Domain\\Entities\\MenuItem.cs",
+              "RelativeDocumentMoniker": "S.O.L.I.D\\FoodOrdering\\Domain\\Entities\\MenuItem.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\S.O.L.I.D\\FoodOrdering\\Domain\\Entities\\MenuItem.cs",
+              "RelativeToolTip": "S.O.L.I.D\\FoodOrdering\\Domain\\Entities\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:23:55.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "KafkaApp",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\KafkaApp.csproj",
               "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\KafkaApp.csproj",
@@ -332,7 +506,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Program.cs",
+              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Program.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Program.cs",
+              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:07:05.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConsumerWorker.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\ConsumerWorker.cs",
+              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Kafka\\ConsumerWorker.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\ConsumerWorker.cs",
+              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Kafka\\ConsumerWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:12:11.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\docker-compose.yml",
               "RelativeDocumentMoniker": "ApacheKafka\\Kafka\\docker-compose.yml",
@@ -340,12 +539,11 @@
               "RelativeToolTip": "ApacheKafka\\Kafka\\docker-compose.yml",
               "ViewState": "AgIAAFgAAAAAAAAAAAAIwFoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-21T08:53:22.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T08:53:22.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "prometheus.yml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\prometheus\\prometheus.yml",
               "RelativeDocumentMoniker": "ApacheKafka\\Kafka\\prometheus\\prometheus.yml",
@@ -353,12 +551,11 @@
               "RelativeToolTip": "ApacheKafka\\Kafka\\prometheus\\prometheus.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-21T08:53:46.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T08:53:46.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "KafkaPingHealthCheck.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\KafkaPingHealthCheck.cs",
               "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Kafka\\KafkaPingHealthCheck.cs",
@@ -366,12 +563,11 @@
               "RelativeToolTip": "ApacheKafka\\KafkaApp\\Kafka\\KafkaPingHealthCheck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T10:37:58.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T10:37:58.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": ".env",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\.env",
               "RelativeDocumentMoniker": "ApacheKafka\\Kafka\\.env",
@@ -379,12 +575,11 @@
               "RelativeToolTip": "ApacheKafka\\Kafka\\.env",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-21T08:54:04.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T08:54:04.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ConsumedMessage.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Models\\ConsumedMessage.cs",
               "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Models\\ConsumedMessage.cs",
@@ -396,7 +591,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
+              "Title": "KafkaSettings.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
+              "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
+              "RelativeToolTip": "ApacheKafka\\KafkaApp\\Kafka\\KafkaSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T10:38:08.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Properties\\launchSettings.json",
@@ -404,12 +611,11 @@
               "RelativeToolTip": "ApacheKafka\\KafkaApp\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-21T10:42:11.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T10:42:11.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\appsettings.json",
               "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\appsettings.json",
@@ -421,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -433,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "KafkaApp.csproj",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\KafkaApp.csproj",
               "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\KafkaApp.csproj",
@@ -445,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "CreateTopicRequest.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Models\\CreateTopicRequest.cs",
               "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Models\\CreateTopicRequest.cs",
@@ -457,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 28,
               "Title": "ProduceRequest.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\KafkaApp\\Models\\ProduceRequest.cs",
               "RelativeDocumentMoniker": "ApacheKafka\\KafkaApp\\Models\\ProduceRequest.cs",
@@ -469,7 +675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 29,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\GrafanaApp\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Logs\\GrafanaApp\\Controllers\\WeatherForecastController.cs",
@@ -481,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 34,
               "Title": "prometheus.yml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\Grafana\\prometheus\\prometheus.yml",
               "RelativeDocumentMoniker": "Logs\\Grafana\\prometheus\\prometheus.yml",
@@ -493,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 36,
               "Title": "dashboards.yaml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\Grafana\\grafana\\provisioning\\dashboards\\dashboards.yaml",
               "RelativeDocumentMoniker": "Logs\\Grafana\\grafana\\provisioning\\dashboards\\dashboards.yaml",
@@ -505,7 +711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 37,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\Grafana\\docker-compose.yml",
               "RelativeDocumentMoniker": "Logs\\Grafana\\docker-compose.yml",
@@ -517,7 +723,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 35,
               "Title": "datasource.yaml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\Grafana\\grafana\\provisioning\\datasources\\datasource.yaml",
               "RelativeDocumentMoniker": "Logs\\Grafana\\grafana\\provisioning\\datasources\\datasource.yaml",
@@ -529,7 +735,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 30,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\GrafanaApp\\appsettings.json",
               "RelativeDocumentMoniker": "Logs\\GrafanaApp\\appsettings.json",
@@ -541,7 +747,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "config.yml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\Grafana\\promtail\\config.yml",
               "RelativeDocumentMoniker": "Logs\\Grafana\\promtail\\config.yml",
@@ -553,7 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\GrafanaApp\\Program.cs",
               "RelativeDocumentMoniker": "Logs\\GrafanaApp\\Program.cs",
@@ -565,7 +771,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 33,
               "Title": "tempo.yml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\Grafana\\tempo\\tempo.yml",
               "RelativeDocumentMoniker": "Logs\\Grafana\\tempo\\tempo.yml",
@@ -577,7 +783,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 38,
               "Title": "config.yml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\Grafana\\loki\\config.yml",
               "RelativeDocumentMoniker": "Logs\\Grafana\\loki\\config.yml",
@@ -589,7 +795,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 39,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\GrafanaApp\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Logs\\GrafanaApp\\WeatherForecast.cs",
@@ -601,7 +807,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 40,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\SplunkApp\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Logs\\SplunkApp\\Controllers\\WeatherForecastController.cs",
@@ -613,7 +819,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 45,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\SplunkApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Logs\\SplunkApp\\Properties\\launchSettings.json",
@@ -625,7 +831,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 46,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\SplunkApp\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Logs\\SplunkApp\\WeatherForecast.cs",
@@ -637,7 +843,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 41,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\SplunkApp\\Program.cs",
               "RelativeDocumentMoniker": "Logs\\SplunkApp\\Program.cs",
@@ -649,7 +855,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 42,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\SplunkApp\\appsettings.json",
               "RelativeDocumentMoniker": "Logs\\SplunkApp\\appsettings.json",
@@ -661,7 +867,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 44,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\Splunk\\docker-compose.yml",
               "RelativeDocumentMoniker": "Logs\\Splunk\\docker-compose.yml",
@@ -673,7 +879,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 47,
               "Title": ".env",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\Splunk\\.env",
               "RelativeDocumentMoniker": "Logs\\Splunk\\.env",
@@ -685,7 +891,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 43,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStackApp\\Program.cs",
               "RelativeDocumentMoniker": "Logs\\ELKStackApp\\Program.cs",
@@ -697,7 +903,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 51,
               "Title": "ELKStackApp.http",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStackApp\\ELKStackApp.http",
               "RelativeDocumentMoniker": "Logs\\ELKStackApp\\ELKStackApp.http",
@@ -709,7 +915,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 52,
               "Title": "github-docker-elk.txt",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStack\\github-docker-elk.txt",
               "RelativeDocumentMoniker": "Logs\\ELKStack\\github-docker-elk.txt",
@@ -721,7 +927,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 48,
               "Title": "MyDocument.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStackApp\\Models\\MyDocument.cs",
               "RelativeDocumentMoniker": "Logs\\ELKStackApp\\Models\\MyDocument.cs",
@@ -733,7 +939,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 49,
               "Title": "EsController.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStackApp\\Controllers\\EsController.cs",
               "RelativeDocumentMoniker": "Logs\\ELKStackApp\\Controllers\\EsController.cs",
@@ -745,7 +951,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 50,
               "Title": "ElasticSearchService.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\ELKStackApp\\Services\\ElasticSearchService.cs",
               "RelativeDocumentMoniker": "Logs\\ELKStackApp\\Services\\ElasticSearchService.cs",
@@ -776,6 +982,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfConfigureAwaitDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a3c7f347204625ce6107a272e450e4792872495")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7a028b39da2becf904806c489028933e8d7a227")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfConfigureAwaitDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfConfigureAwaitDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
