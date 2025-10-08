@@ -25,7 +25,7 @@ Minimal ASP.NET Core sample demonstrating:
 - مثال سادهٔ صف پس زمینه که CorrelationId را به کارهای پس زمینه منتقل می کند.
 
 ## اجرا
-- نیاز به .NET 7 SDK دارد.
+- نیاز به .NET 9 SDK دارد.
 - `dotnet restore`
 - `dotnet run`
 
