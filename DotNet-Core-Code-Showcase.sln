@@ -56,6 +56,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaApp", "ApacheKafka\KafkaApp\KafkaApp.csproj", "{E79D072E-1200-4F4F-823A-6840AAEDEF55}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "S.O.L.I.D", "S.O.L.I.D", "{DD657ED4-B9FB-43A2-953D-699722672F09}"
+	ProjectSection(SolutionItems) = preProject
+		S.O.L.I.D\FoodOrdering\README.md = S.O.L.I.D\FoodOrdering\README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodOrdering", "S.O.L.I.D\FoodOrdering\FoodOrdering.csproj", "{04BC049A-BC00-4285-B854-EE0F910585F3}"
 EndProject
