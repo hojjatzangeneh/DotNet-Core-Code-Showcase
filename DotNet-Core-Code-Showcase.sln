@@ -62,6 +62,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "S.O.L.I.D", "S.O.L.I.D", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodOrdering", "S.O.L.I.D\FoodOrdering\FoodOrdering.csproj", "{04BC049A-BC00-4285-B854-EE0F910585F3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CorrelationId", "CorrelationId", "{83952D55-31B2-4BAA-907F-D8306EC9B055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrelationIdSample", "CorrelationId\CorrelationIdSample.csproj", "{2B62016C-BBEC-FE55-F16B-8CD65C3FA198}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -136,6 +140,10 @@ Global
 		{04BC049A-BC00-4285-B854-EE0F910585F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04BC049A-BC00-4285-B854-EE0F910585F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04BC049A-BC00-4285-B854-EE0F910585F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B62016C-BBEC-FE55-F16B-8CD65C3FA198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B62016C-BBEC-FE55-F16B-8CD65C3FA198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B62016C-BBEC-FE55-F16B-8CD65C3FA198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B62016C-BBEC-FE55-F16B-8CD65C3FA198}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -158,6 +166,7 @@ Global
 		{727F9B65-D9BE-47E1-81A5-6FA453946D70} = {D0550CFD-6CA3-4DBE-9F9C-67A160C38028}
 		{E79D072E-1200-4F4F-823A-6840AAEDEF55} = {D0550CFD-6CA3-4DBE-9F9C-67A160C38028}
 		{04BC049A-BC00-4285-B854-EE0F910585F3} = {DD657ED4-B9FB-43A2-953D-699722672F09}
+		{2B62016C-BBEC-FE55-F16B-8CD65C3FA198} = {83952D55-31B2-4BAA-907F-D8306EC9B055}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C594C7BA-2C79-4B38-90BC-9BFA64F5783B}

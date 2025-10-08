@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Grafana")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7a028b39da2becf904806c489028933e8d7a227")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+725d35f3f0ce9ad5dff630b521301be57dede5a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Grafana")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Grafana")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

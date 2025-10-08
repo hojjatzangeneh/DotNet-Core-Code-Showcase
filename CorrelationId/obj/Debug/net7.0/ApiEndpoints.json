@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CorrelationIdSample.Controllers.SampleController",
+    "Method": "Ping",
+    "RelativePath": "Sample/ping",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
