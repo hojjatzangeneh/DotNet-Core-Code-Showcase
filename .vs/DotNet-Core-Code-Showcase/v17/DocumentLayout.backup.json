@@ -3,16 +3,64 @@
   "WorkspaceRootPath": "D:\\Github\\DotNet-Core-Code-Showcase\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|d:\\github\\dotnet-core-code-showcase\\redlock\\redlockapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|solutionrelative:redlock\\redlockapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED43B64-C8F6-4B41-9765-AB1B416A0412}|RedLock\\RedLock\\RedLock.csproj|d:\\github\\dotnet-core-code-showcase\\redlock\\redlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED43B64-C8F6-4B41-9765-AB1B416A0412}|RedLock\\RedLock\\RedLock.csproj|solutionrelative:redlock\\redlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|d:\\github\\dotnet-core-code-showcase\\redlock\\redlockapi\\distributedlocking\\distributedlockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|solutionrelative:redlock\\redlockapi\\distributedlocking\\distributedlockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|d:\\github\\dotnet-core-code-showcase\\redlock\\redlockapi\\distributedlocking\\redlockservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|solutionrelative:redlock\\redlockapi\\distributedlocking\\redlockservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED43B64-C8F6-4B41-9765-AB1B416A0412}|RedLock\\RedLock\\RedLock.csproj|d:\\github\\dotnet-core-code-showcase\\redlock\\redlock\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9ED43B64-C8F6-4B41-9765-AB1B416A0412}|RedLock\\RedLock\\RedLock.csproj|solutionrelative:redlock\\redlock\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED43B64-C8F6-4B41-9765-AB1B416A0412}|RedLock\\RedLock\\RedLock.csproj|d:\\github\\dotnet-core-code-showcase\\redlock\\redlock\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9ED43B64-C8F6-4B41-9765-AB1B416A0412}|RedLock\\RedLock\\RedLock.csproj|solutionrelative:redlock\\redlock\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|d:\\github\\dotnet-core-code-showcase\\redlock\\redlockapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|solutionrelative:redlock\\redlockapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|d:\\github\\dotnet-core-code-showcase\\redlock\\redlockapi\\distributedlocking\\distributedlockhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|solutionrelative:redlock\\redlockapi\\distributedlocking\\distributedlockhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafka\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|solutionrelative:apachekafka\\kafka\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|d:\\github\\dotnet-core-code-showcase\\apachekafka\\kafka\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{727F9B65-D9BE-47E1-81A5-6FA453946D70}|ApacheKafka\\Kafka\\Kafka.csproj|solutionrelative:apachekafka\\kafka\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|d:\\github\\dotnet-core-code-showcase\\redlock\\redlockapi\\distributedlocking\\redlockoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|solutionrelative:redlock\\redlockapi\\distributedlocking\\redlockoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|d:\\github\\dotnet-core-code-showcase\\redlock\\redlockapi\\distributedlocking\\idistributedlockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|solutionrelative:redlock\\redlockapi\\distributedlocking\\idistributedlockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|d:\\github\\dotnet-core-code-showcase\\redlock\\redlockapi\\redlockapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98}|RedLock\\RedLockAPI\\RedLockAPI.csproj|solutionrelative:redlock\\redlockapi\\redlockapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC1BB75-CCC3-4155-BCCD-D2CCB4CC81BE}|Logs\\Grafana\\Grafana.csproj|d:\\github\\dotnet-core-code-showcase\\logs\\grafana\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1CC1BB75-CCC3-4155-BCCD-D2CCB4CC81BE}|Logs\\Grafana\\Grafana.csproj|solutionrelative:logs\\grafana\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B62016C-BBEC-FE55-F16B-8CD65C3FA198}|CorrelationId\\CorrelationIdSample.csproj|d:\\github\\dotnet-core-code-showcase\\correlationid\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2B62016C-BBEC-FE55-F16B-8CD65C3FA198}|CorrelationId\\CorrelationIdSample.csproj|solutionrelative:correlationid\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B62016C-BBEC-FE55-F16B-8CD65C3FA198}|CorrelationId\\CorrelationIdSample.csproj|d:\\github\\dotnet-core-code-showcase\\correlationid\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{2B62016C-BBEC-FE55-F16B-8CD65C3FA198}|CorrelationId\\CorrelationIdSample.csproj|solutionrelative:correlationid\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B62016C-BBEC-FE55-F16B-8CD65C3FA198}|CorrelationId\\CorrelationIdSample.csproj|d:\\github\\dotnet-core-code-showcase\\correlationid\\correlationidsample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{2B62016C-BBEC-FE55-F16B-8CD65C3FA198}|CorrelationId\\CorrelationIdSample.csproj|solutionrelative:correlationid\\correlationidsample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B62016C-BBEC-FE55-F16B-8CD65C3FA198}|CorrelationId\\CorrelationIdSample.csproj|d:\\github\\dotnet-core-code-showcase\\correlationid\\handlers\\correlationidpropagationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +81,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{2B62016C-BBEC-FE55-F16B-8CD65C3FA198}|CorrelationId\\CorrelationIdSample.csproj|d:\\github\\dotnet-core-code-showcase\\correlationid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B62016C-BBEC-FE55-F16B-8CD65C3FA198}|CorrelationId\\CorrelationIdSample.csproj|solutionrelative:correlationid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RedLock\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RedLock\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RedLock\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 106,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,7 +194,222 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLock\\docker-compose.yml",
+              "RelativeDocumentMoniker": "RedLock\\RedLock\\docker-compose.yml",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLock\\docker-compose.yml",
+              "RelativeToolTip": "RedLock\\RedLock\\docker-compose.yml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwEUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-12T03:49:41.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLock\\Program.cs",
+              "RelativeDocumentMoniker": "RedLock\\RedLock\\Program.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLock\\Program.cs",
+              "RelativeToolTip": "RedLock\\RedLock\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwD0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:46:55.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\Program.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\Program.cs*",
+              "RelativeToolTip": "RedLock\\RedLockAPI\\Program.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowCUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T10:51:43.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DistributedLockService.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\DistributedLocking\\DistributedLockService.cs",
+              "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\DistributedLocking\\DistributedLockService.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\DistributedLocking\\DistributedLockService.cs",
+              "RelativeToolTip": "RedLock\\RedLockAPI\\DistributedLocking\\DistributedLockService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T10:48:49.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDistributedLockService.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\DistributedLocking\\IDistributedLockService.cs",
+              "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\DistributedLocking\\IDistributedLockService.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\DistributedLocking\\IDistributedLockService.cs",
+              "RelativeToolTip": "RedLock\\RedLockAPI\\DistributedLocking\\IDistributedLockService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T10:48:26.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RedLockServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\DistributedLocking\\RedLockServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\DistributedLocking\\RedLockServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\DistributedLocking\\RedLockServiceCollectionExtensions.cs",
+              "RelativeToolTip": "RedLock\\RedLockAPI\\DistributedLocking\\RedLockServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T10:50:32.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLock\\Dockerfile",
+              "RelativeDocumentMoniker": "RedLock\\RedLock\\Dockerfile",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLock\\Dockerfile",
+              "RelativeToolTip": "RedLock\\RedLock\\Dockerfile",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-12T03:51:24.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\appsettings.json",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\appsettings.json",
+              "RelativeToolTip": "RedLock\\RedLockAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T05:31:47.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DistributedLockHandle.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\DistributedLocking\\DistributedLockHandle.cs",
+              "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\DistributedLocking\\DistributedLockHandle.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\DistributedLocking\\DistributedLockHandle.cs",
+              "RelativeToolTip": "RedLock\\RedLockAPI\\DistributedLocking\\DistributedLockHandle.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwBUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T10:43:30.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\docker-compose.yml",
+              "RelativeDocumentMoniker": "ApacheKafka\\Kafka\\docker-compose.yml",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\docker-compose.yml",
+              "RelativeToolTip": "ApacheKafka\\Kafka\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-12T03:53:38.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".env",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\.env",
+              "RelativeDocumentMoniker": "ApacheKafka\\Kafka\\.env",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\.env",
+              "RelativeToolTip": "ApacheKafka\\Kafka\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-12T03:53:46.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RedLockOptions.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\DistributedLocking\\RedLockOptions.cs",
+              "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\DistributedLocking\\RedLockOptions.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\DistributedLocking\\RedLockOptions.cs",
+              "RelativeToolTip": "RedLock\\RedLockAPI\\DistributedLocking\\RedLockOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T10:42:54.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RedLockAPI.csproj",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\RedLockAPI.csproj",
+              "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\RedLockAPI.csproj",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\RedLockAPI.csproj",
+              "RelativeToolTip": "RedLock\\RedLockAPI\\RedLockAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-11T10:57:40.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\Grafana\\docker-compose.yml",
+              "RelativeDocumentMoniker": "Logs\\Grafana\\docker-compose.yml",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\Grafana\\docker-compose.yml",
+              "RelativeToolTip": "Logs\\Grafana\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-11T10:22:13.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\Dockerfile",
+              "RelativeDocumentMoniker": "RedLock\\Dockerfile",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\Dockerfile",
+              "RelativeToolTip": "RedLock\\Dockerfile",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-11T09:59:46.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\docker-compose.yml",
+              "RelativeDocumentMoniker": "RedLock\\docker-compose.yml",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\docker-compose.yml",
+              "RelativeToolTip": "RedLock\\docker-compose.yml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-11T09:59:07.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\Program.cs",
+              "RelativeDocumentMoniker": "RedLock\\Program.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\Program.cs",
+              "RelativeToolTip": "RedLock\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T09:44:46.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CorrelationId\\Properties\\launchSettings.json",
@@ -147,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\Program.cs",
               "RelativeDocumentMoniker": "CorrelationId\\Program.cs",
@@ -160,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "CorrelationIdMiddleware.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\Middleware\\CorrelationIdMiddleware.cs",
               "RelativeDocumentMoniker": "CorrelationId\\Middleware\\CorrelationIdMiddleware.cs",
@@ -173,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "CorrelationIdPropagationHandler.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\Handlers\\CorrelationIdPropagationHandler.cs",
               "RelativeDocumentMoniker": "CorrelationId\\Handlers\\CorrelationIdPropagationHandler.cs",
@@ -186,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "SampleController.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\Controllers\\SampleController.cs",
               "RelativeDocumentMoniker": "CorrelationId\\Controllers\\SampleController.cs",
@@ -199,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "SimpleBackgroundQueue.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\Background\\SimpleBackgroundQueue.cs",
               "RelativeDocumentMoniker": "CorrelationId\\Background\\SimpleBackgroundQueue.cs",
@@ -208,31 +483,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T11:00:16.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\README.md",
-              "RelativeDocumentMoniker": "CorrelationId\\README.md",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\README.md",
-              "RelativeToolTip": "CorrelationId\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-08T11:00:09.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CorrelationIdSample",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\CorrelationIdSample.csproj",
-              "RelativeDocumentMoniker": "CorrelationId\\CorrelationIdSample.csproj",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\CorrelationIdSample.csproj",
-              "RelativeToolTip": "CorrelationId\\CorrelationIdSample.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-08T11:08:39.461Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RedLock": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

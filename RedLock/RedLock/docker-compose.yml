@@ -1,0 +1,101 @@
+﻿version: "3.8"
+
+services:
+  redis1:
+    image: redis/redis-stack:latest
+    container_name: redis1
+    restart: unless-stopped
+    ports:
+      - "16379:6379"    # Redis
+      - "8011:8001"     # RedisInsight
+    volumes:
+      - redis1_data:/data
+    networks:
+      - redlock_net
+    environment:
+      - REDIS_PASSWORD=4992040
+    healthcheck:
+      test: ["CMD", "redis-cli", "-h", "127.0.0.1", "-a", "4992040", "PING"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+      start_period: 5s
+
+  redis2:
+    image: redis/redis-stack:latest
+    container_name: redis2
+    restart: unless-stopped
+    ports:
+      - "16380:6379"
+      - "8012:8001"
+    volumes:
+      - redis2_data:/data
+    networks:
+      - redlock_net
+    environment:
+      - REDIS_PASSWORD=4992040
+    healthcheck:
+      test: ["CMD", "redis-cli", "-h", "127.0.0.1", "-a", "4992040", "PING"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+      start_period: 5s
+
+  redis3:
+    image: redis/redis-stack:latest
+    container_name: redis3
+    restart: unless-stopped
+    ports:
+      - "16381:6379"
+      - "8013:8001"
+    volumes:
+      - redis3_data:/data
+    networks:
+      - redlock_net
+    environment:
+      - REDIS_PASSWORD=4992040
+    healthcheck:
+      test: ["CMD", "redis-cli", "-h", "127.0.0.1", "-a", "4992040", "PING"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+      start_period: 5s
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: redlock-app:local
+    container_name: redlock-app
+    restart: unless-stopped
+    depends_on:
+      - redis1
+      - redis2
+      - redis3
+    environment:
+      - REDLOCK_ENDPOINTS=redis1:6379,redis2:6379,redis3:6379
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:80
+    ports:
+      - "80:80"
+    networks:
+      - redlock_net
+    logging:
+      options:
+        max-size: "10m"
+        max-file: "3"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost/ || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+volumes:
+  redis1_data:
+  redis2_data:
+  redis3_data:
+
+networks:
+  redlock_net:
+    driver: bridge
