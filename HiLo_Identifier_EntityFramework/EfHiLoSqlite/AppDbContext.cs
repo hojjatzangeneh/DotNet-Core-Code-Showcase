@@ -7,8 +7,7 @@ namespace EfHiLoSqlServer
         public DbSet<Product> Products => Set<Product>();
 
         // این connection string برای LocalDB هست؛ در صورت نیاز آن را تغییر بده
-        private const string ConnectionString =
-            @"Server=host.docker.internal,1433;Database=EfHiLoDemo;User Id=sa;Password=****;TrustServerCertificate=True;";
+        private const string ConnectionString =@"Server=host.docker.internal,1433;Database=EfHiLoDemo;User Id=sa;Password=****;TrustServerCertificate=True;";
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
