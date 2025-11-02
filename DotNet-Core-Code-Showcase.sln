@@ -75,6 +75,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedLockAPI", "RedLock\RedLo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedLock", "RedLock\RedLock\RedLock.csproj", "{9ED43B64-C8F6-4B41-9765-AB1B416A0412}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HiLo_Identifier_EntityFramework", "HiLo_Identifier_EntityFramework", "{0FDFEA31-7553-44FC-A521-D01660DE365E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfHiLoSqlServer", "HiLo_Identifier_EntityFramework\EfHiLoSqlite\EfHiLoSqlServer.csproj", "{8D0CD837-7462-422F-9C7F-68F2B0C36E26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -161,6 +165,10 @@ Global
 		{9ED43B64-C8F6-4B41-9765-AB1B416A0412}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ED43B64-C8F6-4B41-9765-AB1B416A0412}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ED43B64-C8F6-4B41-9765-AB1B416A0412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0CD837-7462-422F-9C7F-68F2B0C36E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0CD837-7462-422F-9C7F-68F2B0C36E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0CD837-7462-422F-9C7F-68F2B0C36E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0CD837-7462-422F-9C7F-68F2B0C36E26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -186,6 +194,7 @@ Global
 		{2B62016C-BBEC-FE55-F16B-8CD65C3FA198} = {83952D55-31B2-4BAA-907F-D8306EC9B055}
 		{D74BA224-CE92-48ED-ABC9-E37FC8FE8F98} = {98584B15-8459-460E-B52A-94EED3771796}
 		{9ED43B64-C8F6-4B41-9765-AB1B416A0412} = {98584B15-8459-460E-B52A-94EED3771796}
+		{8D0CD837-7462-422F-9C7F-68F2B0C36E26} = {0FDFEA31-7553-44FC-A521-D01660DE365E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C594C7BA-2C79-4B38-90BC-9BFA64F5783B}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EfHiLoSqlServer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

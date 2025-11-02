@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Github\\DotNet-Core-Code-Showcase\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8D0CD837-7462-422F-9C7F-68F2B0C36E26}|HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\EfHiLoSqlite.csproj|d:\\github\\dotnet-core-code-showcase\\hilo_identifier_entityframework\\efhilosqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD837-7462-422F-9C7F-68F2B0C36E26}|HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\EfHiLoSqlite.csproj|solutionrelative:hilo_identifier_entityframework\\efhilosqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD837-7462-422F-9C7F-68F2B0C36E26}|HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\EfHiLoSqlServer.csproj|d:\\github\\dotnet-core-code-showcase\\hilo_identifier_entityframework\\efhilosqlite\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD837-7462-422F-9C7F-68F2B0C36E26}|HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\EfHiLoSqlServer.csproj|solutionrelative:hilo_identifier_entityframework\\efhilosqlite\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0CD837-7462-422F-9C7F-68F2B0C36E26}|HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\EfHiLoSqlServer.csproj|d:\\github\\dotnet-core-code-showcase\\hilo_identifier_entityframework\\efhilosqlite\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0CD837-7462-422F-9C7F-68F2B0C36E26}|HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\EfHiLoSqlServer.csproj|solutionrelative:hilo_identifier_entityframework\\efhilosqlite\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{98584B15-8459-460E-B52A-94EED3771796}|RedLock{98584B15-8459-460E-B52A-94EED3771796}|D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{98584B15-8459-460E-B52A-94EED3771796}|RedLock{98584B15-8459-460E-B52A-94EED3771796}|solutionrelative:RedLock\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -105,8 +117,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 106,
-          "SelectedChildIndex": 22,
+          "DockedWidth": 98,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Bookmark",
@@ -197,8 +209,55 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\Product.cs",
+              "RelativeDocumentMoniker": "HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\Product.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\Product.cs",
+              "RelativeToolTip": "HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:37:36.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\AppDbContext.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\AppDbContext.cs",
+              "RelativeToolTip": "HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:37:13.919Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\Program.cs",
+              "RelativeDocumentMoniker": "HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\Program.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\Program.cs",
+              "RelativeToolTip": "HiLo_Identifier_EntityFramework\\EfHiLoSqlite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:52:16.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "README.md",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\README.md",
               "RelativeDocumentMoniker": "RedLock\\README.md",
@@ -211,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLock\\Program.cs",
               "RelativeDocumentMoniker": "RedLock\\RedLock\\Program.cs",
@@ -224,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\Program.cs",
               "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\Program.cs",
@@ -237,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "DistributedLockService.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\DistributedLocking\\DistributedLockService.cs",
               "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\DistributedLocking\\DistributedLockService.cs",
@@ -250,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IDistributedLockService.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\DistributedLocking\\IDistributedLockService.cs",
               "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\DistributedLocking\\IDistributedLockService.cs",
@@ -263,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RedLockServiceCollectionExtensions.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\DistributedLocking\\RedLockServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\DistributedLocking\\RedLockServiceCollectionExtensions.cs",
@@ -276,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLock\\Dockerfile",
               "RelativeDocumentMoniker": "RedLock\\RedLock\\Dockerfile",
@@ -289,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "DistributedLockHandle.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\DistributedLocking\\DistributedLockHandle.cs",
               "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\DistributedLocking\\DistributedLockHandle.cs",
@@ -302,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "RedLockOptions.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\DistributedLocking\\RedLockOptions.cs",
               "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\DistributedLocking\\RedLockOptions.cs",
@@ -315,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLock\\docker-compose.yml",
               "RelativeDocumentMoniker": "RedLock\\RedLock\\docker-compose.yml",
@@ -328,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\appsettings.json",
               "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\appsettings.json",
@@ -341,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\docker-compose.yml",
               "RelativeDocumentMoniker": "ApacheKafka\\Kafka\\docker-compose.yml",
@@ -354,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": ".env",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\ApacheKafka\\Kafka\\.env",
               "RelativeDocumentMoniker": "ApacheKafka\\Kafka\\.env",
@@ -367,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "RedLockAPI.csproj",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\RedLockAPI\\RedLockAPI.csproj",
               "RelativeDocumentMoniker": "RedLock\\RedLockAPI\\RedLockAPI.csproj",
@@ -380,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Logs\\Grafana\\docker-compose.yml",
               "RelativeDocumentMoniker": "Logs\\Grafana\\docker-compose.yml",
@@ -393,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\Dockerfile",
               "RelativeDocumentMoniker": "RedLock\\Dockerfile",
@@ -404,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\docker-compose.yml",
               "RelativeDocumentMoniker": "RedLock\\docker-compose.yml",
@@ -415,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RedLock\\Program.cs",
               "RelativeDocumentMoniker": "RedLock\\Program.cs",
@@ -426,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CorrelationId\\Properties\\launchSettings.json",
@@ -439,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\Program.cs",
               "RelativeDocumentMoniker": "CorrelationId\\Program.cs",
@@ -452,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "CorrelationIdMiddleware.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\Middleware\\CorrelationIdMiddleware.cs",
               "RelativeDocumentMoniker": "CorrelationId\\Middleware\\CorrelationIdMiddleware.cs",
@@ -465,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "CorrelationIdPropagationHandler.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\Handlers\\CorrelationIdPropagationHandler.cs",
               "RelativeDocumentMoniker": "CorrelationId\\Handlers\\CorrelationIdPropagationHandler.cs",
@@ -478,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "SampleController.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\Controllers\\SampleController.cs",
               "RelativeDocumentMoniker": "CorrelationId\\Controllers\\SampleController.cs",
@@ -491,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "SimpleBackgroundQueue.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\CorrelationId\\Background\\SimpleBackgroundQueue.cs",
               "RelativeDocumentMoniker": "CorrelationId\\Background\\SimpleBackgroundQueue.cs",
@@ -505,7 +564,7 @@
           ]
         },
         {
-          "DockedWidth": 218,
+          "DockedWidth": 226,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -527,6 +586,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             }
           ]
         }

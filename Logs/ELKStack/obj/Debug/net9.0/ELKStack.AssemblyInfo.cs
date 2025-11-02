@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ELKStack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef15ffbe2127a2462adf3ce26c2ca60577319c8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbb1bd6698f3398b6a440e09b9643c160b3af9fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ELKStack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ELKStack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
