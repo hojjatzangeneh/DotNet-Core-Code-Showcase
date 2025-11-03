@@ -3,7 +3,7 @@
 A simple and educational project demonstrating **all types of ASP.NET Core filters**:  
 **Authorization**, **Resource**, **Action**, **Result**, **Exception**, and **Endpoint Filters**
 
-پروژه‌ای ساده و آموزشی برای نمایش تمام انواع **فیلترهای ASP.NET Core**  
+پروژه ای ساده و آموزشی برای نمایش تمام انواع **فیلترهای ASP.NET Core**  
 از جمله: **Authorization**, **Resource**, **Action**, **Result**, **Exception** و **Endpoint Filters**
 
 ---
@@ -15,12 +15,12 @@ This project shows the full ASP.NET Core filter pipeline — when each filter ru
 and how you can use them for caching, authorization, logging, validation, and error handling.
 
 **FA:**  
-این پروژه به صورت عملی نشان می‌دهد که هر فیلتر در چه مرحله‌ای اجرا می‌شود و برای چه کاربردهایی است،  
+این پروژه به صورت عملی نشان می دهد که هر فیلتر در چه مرحله ای اجرا می شود و برای چه کاربردهایی است،  
 از جمله: **Caching، Authorization، Logging، Validation** و **Error Handling**.
 
 ---
 
-## ⚙️ Technologies | تکنولوژی‌ها
+## ⚙️ Technologies | تکنولوژی ها
 
 | Feature | Description |
 |----------|--------------|
@@ -32,10 +32,10 @@ and how you can use them for caching, authorization, logging, validation, and er
 
 | ویژگی | توضیح |
 |--------|-------|
-| **.NET 9** | فریم‌ورک مورد استفاده |
+| **.NET 9** | فریم ورک مورد استفاده |
 | **Minimal API + MVC** | برای نمایش هر دو نوع فیلتر استفاده شده |
-| **Global Filters** | ثبت‌شده در سطح سراسری (Program.cs) |
-| **Custom Filters** | پیاده‌سازی دستی برای کنترل بیشتر |
+| **Global Filters** | ثبت شده در سطح سراسری (Program.cs) |
+| **Custom Filters** | پیاده سازی دستی برای کنترل بیشتر |
 | **In-Memory Cache** | در Resource Filter استفاده شده |
 
 ---
