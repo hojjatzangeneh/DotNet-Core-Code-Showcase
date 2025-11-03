@@ -56,15 +56,16 @@ Result Filter
 (Response)
 ↑
 (Exception Filter - on errors)
-
+```
 ---
 ## Minimal API Endpoint Filter
 ```text
-	Endpoint Filter → Handler → Response
-```text
-Endpoint Filter
+Endpoint Filter → Handler → Response
+```
 
 ## 📁 Project Structure | ساختار پروژه
+
+```text
 MinimalFilters/
 │
 ├── Controllers/
