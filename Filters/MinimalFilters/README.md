@@ -56,7 +56,7 @@ Result Filter
 (Response)
 ↑
 (Exception Filter - on errors)
-```text
+
 ---
 ## Minimal API Endpoint Filter
 ```text
