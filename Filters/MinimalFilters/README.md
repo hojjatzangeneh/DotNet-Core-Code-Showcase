@@ -1,4 +1,4 @@
-﻿# 🚀 MinimalFiltersDemo (.NET 9)
+﻿# 🚀 MinimalFilters (.NET 9)
 
 A simple and educational project demonstrating **all types of ASP.NET Core filters**:  
 **Authorization**, **Resource**, **Action**, **Result**, **Exception**, and **Endpoint Filters**
