@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "D:\\Github\\DotNet-Core-Code-Showcase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|d:\\github\\dotnet-core-code-showcase\\filters\\minimalfilters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|solutionrelative:filters\\minimalfilters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|d:\\github\\dotnet-core-code-showcase\\filters\\minimalfilters\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|solutionrelative:filters\\minimalfilters\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|d:\\github\\dotnet-core-code-showcase\\filters\\minimalfilters\\filters\\customactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|solutionrelative:filters\\minimalfilters\\filters\\customactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|d:\\github\\dotnet-core-code-showcase\\filters\\minimalfilters\\filters\\customresourcefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|solutionrelative:filters\\minimalfilters\\filters\\customresourcefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|d:\\github\\dotnet-core-code-showcase\\filters\\minimalfilters\\filters\\customresultfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|solutionrelative:filters\\minimalfilters\\filters\\customresultfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|d:\\github\\dotnet-core-code-showcase\\filters\\minimalfilters\\controllers\\samplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|solutionrelative:filters\\minimalfilters\\controllers\\samplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|d:\\github\\dotnet-core-code-showcase\\filters\\minimalfilters\\filters\\globalexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|solutionrelative:filters\\minimalfilters\\filters\\globalexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|d:\\github\\dotnet-core-code-showcase\\filters\\minimalfilters\\filters\\customauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|solutionrelative:filters\\minimalfilters\\filters\\customauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|d:\\github\\dotnet-core-code-showcase\\filters\\minimalfilters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|solutionrelative:filters\\minimalfilters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -119,6 +143,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\README.md",
+              "RelativeDocumentMoniker": "Filters\\MinimalFilters\\README.md",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\README.md",
+              "RelativeToolTip": "Filters\\MinimalFilters\\README.md",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-03T06:56:06.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomResourceFilter.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Filters\\CustomResourceFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\MinimalFilters\\Filters\\CustomResourceFilter.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Filters\\CustomResourceFilter.cs",
+              "RelativeToolTip": "Filters\\MinimalFilters\\Filters\\CustomResourceFilter.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:41:04.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomResultFilter.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Filters\\CustomResultFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\MinimalFilters\\Filters\\CustomResultFilter.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Filters\\CustomResultFilter.cs",
+              "RelativeToolTip": "Filters\\MinimalFilters\\Filters\\CustomResultFilter.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:40:41.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalExceptionFilter.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Filters\\GlobalExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\MinimalFilters\\Filters\\GlobalExceptionFilter.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Filters\\GlobalExceptionFilter.cs",
+              "RelativeToolTip": "Filters\\MinimalFilters\\Filters\\GlobalExceptionFilter.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:40:28.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomAuthorizationFilter.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Filters\\CustomAuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\MinimalFilters\\Filters\\CustomAuthorizationFilter.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Filters\\CustomAuthorizationFilter.cs",
+              "RelativeToolTip": "Filters\\MinimalFilters\\Filters\\CustomAuthorizationFilter.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:39:17.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomActionFilter.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Filters\\CustomActionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\MinimalFilters\\Filters\\CustomActionFilter.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Filters\\CustomActionFilter.cs",
+              "RelativeToolTip": "Filters\\MinimalFilters\\Filters\\CustomActionFilter.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:39:12.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Program.cs",
               "RelativeDocumentMoniker": "Filters\\MinimalFilters\\Program.cs",
@@ -131,13 +233,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SampleController.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Controllers\\SampleController.cs",
               "RelativeDocumentMoniker": "Filters\\MinimalFilters\\Controllers\\SampleController.cs",
               "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Controllers\\SampleController.cs",
               "RelativeToolTip": "Filters\\MinimalFilters\\Controllers\\SampleController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T06:01:17.85Z",
               "EditorCaption": ""
