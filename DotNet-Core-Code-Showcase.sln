@@ -83,6 +83,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "General", "General", "{ADCE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolsSample", "General\ToolsSample\ToolsSample.csproj", "{BD002DA8-8B25-4F20-A538-5A2FAF2587C5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Filters", "Filters", "{15D309F3-771A-43BA-98F8-3CC04E343BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalFilters", "Filters\MinimalFilters\MinimalFilters.csproj", "{741FD787-CF8F-4B52-88CE-CAA835403FB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +181,10 @@ Global
 		{BD002DA8-8B25-4F20-A538-5A2FAF2587C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD002DA8-8B25-4F20-A538-5A2FAF2587C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD002DA8-8B25-4F20-A538-5A2FAF2587C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{741FD787-CF8F-4B52-88CE-CAA835403FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741FD787-CF8F-4B52-88CE-CAA835403FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741FD787-CF8F-4B52-88CE-CAA835403FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741FD787-CF8F-4B52-88CE-CAA835403FB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -204,6 +212,7 @@ Global
 		{9ED43B64-C8F6-4B41-9765-AB1B416A0412} = {98584B15-8459-460E-B52A-94EED3771796}
 		{8D0CD837-7462-422F-9C7F-68F2B0C36E26} = {0FDFEA31-7553-44FC-A521-D01660DE365E}
 		{BD002DA8-8B25-4F20-A538-5A2FAF2587C5} = {ADCE9B2B-90A5-4998-A923-3B0926F3F798}
+		{741FD787-CF8F-4B52-88CE-CAA835403FB5} = {15D309F3-771A-43BA-98F8-3CC04E343BD0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C594C7BA-2C79-4B38-90BC-9BFA64F5783B}
