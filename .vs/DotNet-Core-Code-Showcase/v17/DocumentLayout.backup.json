@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Github\\DotNet-Core-Code-Showcase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|d:\\github\\dotnet-core-code-showcase\\filters\\minimalfilters\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|solutionrelative:filters\\minimalfilters\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{21D7A461-6E66-4997-847D-4493F64219E1}|RateLimiting\\RateLimiting\\RateLimiting.csproj|d:\\github\\dotnet-core-code-showcase\\ratelimiting\\ratelimiting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D7A461-6E66-4997-847D-4493F64219E1}|RateLimiting\\RateLimiting\\RateLimiting.csproj|solutionrelative:ratelimiting\\ratelimiting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD002DA8-8B25-4F20-A538-5A2FAF2587C5}|General\\ToolsSample\\ToolsSample.csproj|d:\\github\\dotnet-core-code-showcase\\general\\toolssample\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD002DA8-8B25-4F20-A538-5A2FAF2587C5}|General\\ToolsSample\\ToolsSample.csproj|solutionrelative:general\\toolssample\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{741FD787-CF8F-4B52-88CE-CAA835403FB5}|Filters\\MinimalFilters\\MinimalFilters.csproj|d:\\github\\dotnet-core-code-showcase\\filters\\minimalfilters\\filters\\customactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,19 +147,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\README.md",
-              "RelativeDocumentMoniker": "Filters\\MinimalFilters\\README.md",
-              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\README.md",
-              "RelativeToolTip": "Filters\\MinimalFilters\\README.md",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-11-03T06:56:06.797Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\RateLimiting\\RateLimiting\\Program.cs",
+              "RelativeDocumentMoniker": "RateLimiting\\RateLimiting\\Program.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\RateLimiting\\RateLimiting\\Program.cs*",
+              "RelativeToolTip": "RateLimiting\\RateLimiting\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:01:27.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "General.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\General\\ToolsSample\\General.cs",
+              "RelativeDocumentMoniker": "General\\ToolsSample\\General.cs",
+              "ToolTip": "D:\\Github\\DotNet-Core-Code-Showcase\\General\\ToolsSample\\General.cs",
+              "RelativeToolTip": "General\\ToolsSample\\General.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:59:29.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CustomResourceFilter.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Filters\\CustomResourceFilter.cs",
               "RelativeDocumentMoniker": "Filters\\MinimalFilters\\Filters\\CustomResourceFilter.cs",
@@ -168,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CustomResultFilter.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Filters\\CustomResultFilter.cs",
               "RelativeDocumentMoniker": "Filters\\MinimalFilters\\Filters\\CustomResultFilter.cs",
@@ -181,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GlobalExceptionFilter.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Filters\\GlobalExceptionFilter.cs",
               "RelativeDocumentMoniker": "Filters\\MinimalFilters\\Filters\\GlobalExceptionFilter.cs",
@@ -194,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CustomAuthorizationFilter.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Filters\\CustomAuthorizationFilter.cs",
               "RelativeDocumentMoniker": "Filters\\MinimalFilters\\Filters\\CustomAuthorizationFilter.cs",
@@ -207,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomActionFilter.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Filters\\CustomActionFilter.cs",
               "RelativeDocumentMoniker": "Filters\\MinimalFilters\\Filters\\CustomActionFilter.cs",
@@ -220,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Program.cs",
               "RelativeDocumentMoniker": "Filters\\MinimalFilters\\Program.cs",
@@ -233,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SampleController.cs",
               "DocumentMoniker": "D:\\Github\\DotNet-Core-Code-Showcase\\Filters\\MinimalFilters\\Controllers\\SampleController.cs",
               "RelativeDocumentMoniker": "Filters\\MinimalFilters\\Controllers\\SampleController.cs",
