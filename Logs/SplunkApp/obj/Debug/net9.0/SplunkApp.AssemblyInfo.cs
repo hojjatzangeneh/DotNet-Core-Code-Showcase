@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SplunkApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c28d8d1f8a627026b56a445984ccf0467cf4b450")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+418dd3b64110141a7230e7633724067ee27dc84f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SplunkApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SplunkApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
