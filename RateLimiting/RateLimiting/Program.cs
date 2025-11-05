@@ -1,9 +1,11 @@
-﻿using System.Threading.RateLimiting;
+using System.Threading.RateLimiting;
 
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.RateLimiting;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.AddServiceDefaults();
 
 // Add Rate Limiter
 builder.Services.AddRateLimiter(static options =>
@@ -74,6 +76,8 @@ builder.Services.AddRateLimiter(static options =>
 });
 
 var app = builder.Build();
+
+app.MapDefaultEndpoints();
 
 // Use Rate Limiter middleware
 app.UseRateLimiter();

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RateLimiting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f98d56bea135e15b0768c96d82e4305aade9172")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2450e9e29a32490d50d916dc456000754dc966c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("RateLimiting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RateLimiting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
