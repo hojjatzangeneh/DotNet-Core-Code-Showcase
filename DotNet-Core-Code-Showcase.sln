@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqWorkshop", "LINQ\LinqWo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp_vNext_polly", "Asp_vNext_polly\Asp_vNext_polly.csproj", "{77CAC5CA-F670-4FEC-BFD8-7E15E8F4F12A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aspire", "Aspire", "{A7C9E050-9307-4CC6-9C1C-D504C0159C9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
