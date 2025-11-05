@@ -1,0 +1,6 @@
+@Asp_vNext_polly_HostAddress = http://localhost:5126
+
+GET {{Asp_vNext_polly_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

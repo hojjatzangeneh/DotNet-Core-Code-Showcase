@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EfHiLoSqlServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+418dd3b64110141a7230e7633724067ee27dc84f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f98d56bea135e15b0768c96d82e4305aade9172")]
 [assembly: System.Reflection.AssemblyProductAttribute("EfHiLoSqlServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EfHiLoSqlServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
