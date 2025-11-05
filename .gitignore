@@ -1,1 +1,10 @@
 .vs/
+/ApacheKafka/Kafka/obj/Debug/net9.0/Kafka.AssemblyInfo.cs
+/ApacheKafka/Kafka/obj/Debug/net9.0/Kafka.AssemblyInfoInputs.cache
+/.vs/DotNet-Core-Code-Showcase/v17/.suo
+/.vs/DotNet-Core-Code-Showcase/v17/DocumentLayout.backup.json
+/.vs/DotNet-Core-Code-Showcase/v17/DocumentLayout.json
+/ApacheKafka/KafkaApp/obj/Debug/net9.0/KafkaApp.AssemblyInfo.cs
+/ApacheKafka/KafkaApp/obj/Debug/net9.0/KafkaApp.AssemblyInfoInputs.cache
+/Asp_vNext_polly/obj/Debug/net9.0/Asp_vNext_polly.AssemblyInfo.cs
+/Asp_vNext_polly/obj/Debug/net9.0/Asp_vNext_polly.AssemblyInfoInputs.cache
