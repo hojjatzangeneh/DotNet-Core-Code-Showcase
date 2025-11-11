@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinqWorkshop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c29a1b148fe9c61d80a07c85d5af045531521bce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+431eb462b5b5004ddfe8e77e9a7026975b53083a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinqWorkshop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinqWorkshop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
