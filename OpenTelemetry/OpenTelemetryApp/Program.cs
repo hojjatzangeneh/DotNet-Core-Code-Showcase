@@ -25,9 +25,6 @@ var activitySource = new ActivitySource("SimpleApp.ActivitySource");
 var meter = new System.Diagnostics.Metrics.Meter("SimpleApp.Meter" , "1.0.0");
 var requestCounter = meter.CreateCounter<long>("simple_requests_total" , description: "Total requests to sample endpoint");
 
-
-
-var responseCounter = "";
 // Register meter so controller can receive it via DI
 builder.Services.AddSingleton(activitySource);
 builder.Services.AddSingleton(meter);
