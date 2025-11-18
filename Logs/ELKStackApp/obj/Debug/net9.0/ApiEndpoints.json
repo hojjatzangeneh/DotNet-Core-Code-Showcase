@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "ELKStackApp.Controllers.EsController",
+    "Method": "CreateDocument",
+    "RelativePath": "Es",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "document",
+        "Type": "ELKStackApp.Models.MyDocument",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ELKStackApp.Controllers.EsController",
+    "Method": "GetAllDocuments",
+    "RelativePath": "Es",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ELKStackApp.Controllers.EsController",
+    "Method": "UpdateDocument",
+    "RelativePath": "Es",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "document",
+        "Type": "ELKStackApp.Models.MyDocument",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ELKStackApp.Controllers.EsController",
+    "Method": "DeleteDocument",
+    "RelativePath": "Es/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ELKStackApp.Controllers.EsController",
+    "Method": "GetDocument",
+    "RelativePath": "Es/read/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

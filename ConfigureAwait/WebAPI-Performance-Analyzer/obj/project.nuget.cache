@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UqgzWC15PQw=",
+  "success": true,
+  "projectFilePath": "D:\\Github\\DotNet-Core-Code-Showcase\\ConfigureAwait\\WebAPI-Performance-Analyzer\\WebAPI-Performance-Analyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\h.zangeneh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\h.zangeneh\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\h.zangeneh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1-preview.1.nupkg.sha512",
+    "C:\\Users\\h.zangeneh\\.nuget\\packages\\scalar.aspnetcore\\2.4.4\\scalar.aspnetcore.2.4.4.nupkg.sha512",
+    "C:\\Users\\h.zangeneh\\.nuget\\packages\\swashbuckle.aspnetcore.redoc\\8.1.2\\swashbuckle.aspnetcore.redoc.8.1.2.nupkg.sha512",
+    "C:\\Users\\h.zangeneh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\8.1.2\\swashbuckle.aspnetcore.swaggerui.8.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
