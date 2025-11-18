@@ -1,0 +1,13 @@
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\AsyncHttpUtils\bin\Debug\net9.0\AsyncHttpUtils.deps.json
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\AsyncHttpUtils\bin\Debug\net9.0\AsyncHttpUtils.dll
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\AsyncHttpUtils\bin\Debug\net9.0\AsyncHttpUtils.pdb
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\AsyncHttpUtils\obj\Debug\net9.0\AsyncHttpUtils.csproj.AssemblyReference.cache
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\AsyncHttpUtils\obj\Debug\net9.0\AsyncHttpUtils.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\AsyncHttpUtils\obj\Debug\net9.0\AsyncHttpUtils.AssemblyInfoInputs.cache
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\AsyncHttpUtils\obj\Debug\net9.0\AsyncHttpUtils.AssemblyInfo.cs
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\AsyncHttpUtils\obj\Debug\net9.0\AsyncHttpUtils.csproj.CoreCompileInputs.cache
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\AsyncHttpUtils\obj\Debug\net9.0\AsyncHttpUtils.sourcelink.json
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\AsyncHttpUtils\obj\Debug\net9.0\AsyncHttpUtils.dll
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\AsyncHttpUtils\obj\Debug\net9.0\refint\AsyncHttpUtils.dll
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\AsyncHttpUtils\obj\Debug\net9.0\AsyncHttpUtils.pdb
+D:\Github\DotNet-Core-Code-Showcase\ConfigureAwait\AsyncHttpUtils\obj\Debug\net9.0\ref\AsyncHttpUtils.dll

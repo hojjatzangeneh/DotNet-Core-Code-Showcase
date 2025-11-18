@@ -1,0 +1,13 @@
+D:\Github\DotNet-Core-Code-Showcase\Aspire\AspireApp\AspireApp.ServiceDefaults\bin\Debug\net9.0\AspireApp.ServiceDefaults.deps.json
+D:\Github\DotNet-Core-Code-Showcase\Aspire\AspireApp\AspireApp.ServiceDefaults\bin\Debug\net9.0\AspireApp.ServiceDefaults.dll
+D:\Github\DotNet-Core-Code-Showcase\Aspire\AspireApp\AspireApp.ServiceDefaults\bin\Debug\net9.0\AspireApp.ServiceDefaults.pdb
+D:\Github\DotNet-Core-Code-Showcase\Aspire\AspireApp\AspireApp.ServiceDefaults\obj\Debug\net9.0\AspireApp.ServiceDefaults.csproj.AssemblyReference.cache
+D:\Github\DotNet-Core-Code-Showcase\Aspire\AspireApp\AspireApp.ServiceDefaults\obj\Debug\net9.0\AspireApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DotNet-Core-Code-Showcase\Aspire\AspireApp\AspireApp.ServiceDefaults\obj\Debug\net9.0\AspireApp.ServiceDefaults.AssemblyInfoInputs.cache
+D:\Github\DotNet-Core-Code-Showcase\Aspire\AspireApp\AspireApp.ServiceDefaults\obj\Debug\net9.0\AspireApp.ServiceDefaults.AssemblyInfo.cs
+D:\Github\DotNet-Core-Code-Showcase\Aspire\AspireApp\AspireApp.ServiceDefaults\obj\Debug\net9.0\AspireApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\Github\DotNet-Core-Code-Showcase\Aspire\AspireApp\AspireApp.ServiceDefaults\obj\Debug\net9.0\AspireApp.ServiceDefaults.sourcelink.json
+D:\Github\DotNet-Core-Code-Showcase\Aspire\AspireApp\AspireApp.ServiceDefaults\obj\Debug\net9.0\AspireApp.ServiceDefaults.dll
+D:\Github\DotNet-Core-Code-Showcase\Aspire\AspireApp\AspireApp.ServiceDefaults\obj\Debug\net9.0\refint\AspireApp.ServiceDefaults.dll
+D:\Github\DotNet-Core-Code-Showcase\Aspire\AspireApp\AspireApp.ServiceDefaults\obj\Debug\net9.0\AspireApp.ServiceDefaults.pdb
+D:\Github\DotNet-Core-Code-Showcase\Aspire\AspireApp\AspireApp.ServiceDefaults\obj\Debug\net9.0\ref\AspireApp.ServiceDefaults.dll

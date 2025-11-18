@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jjBvvufk120=",
+  "success": true,
+  "projectFilePath": "D:\\Github\\DotNet-Core-Code-Showcase\\RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\h.zangeneh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1-preview.1.nupkg.sha512",
+    "C:\\Users\\h.zangeneh\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
+    "C:\\Users\\h.zangeneh\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\h.zangeneh\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
