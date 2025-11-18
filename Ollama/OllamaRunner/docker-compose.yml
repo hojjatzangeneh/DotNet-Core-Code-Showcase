@@ -1,0 +1,75 @@
+﻿version: "3.8"
+
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    restart: unless-stopped
+    # اگر می‌خوای لاگ‌ها دیده بشه، از "unless-stopped" یا "always" استفاده کن
+    #restart: always
+
+    # Persist models & config so با حذف کانتینر مدل‌ها حذف نشوند
+    volumes:
+      - ollama_data:/root/.ollama
+      # اگر می‌خواهی مسیر مشخص هاست رو mount کنی (مثال ویندوز/WSL):
+      # - C:\Users\<you>\.ollama:/root/.ollama      # Windows (PowerShell as admin)
+      # - /home/you/.ollama:/root/.ollama            # Linux / WSL
+
+    # فقط روی localhost bind کن (امن‌تر). اگر می‌خواهی از شبکه در دسترس باشه از 0.0.0.0
+    ports:
+      - "0.0.0.0:11434:11434"
+      # - "0.0.0.0:11434:11434"   # (باز کردن برای همه‌ی اینترفیس‌ها — مراقب امنیت باش)
+
+    # برای استفاده از GPU (NVIDIA) در صورت نیاز:
+    # 1) نصب کنید: nvidia-container-toolkit و تنظیمات Docker برای nvidia runtime
+    # 2) خطوط زیر را از کامنت خارج کنید
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: all
+    #           capabilities: [gpu]
+    # یا در Compose V2 می‌توانید از gpus:
+    # gpus: all
+
+    # Environment (متغیرهای مفید)
+    environment:
+      # تغییر محل نگهداری مدل‌ها داخل کانتینر (اختیاری)
+      # - OLLAMA_MODELS=/root/.ollama/models
+
+      # تغییر bind address (مثال: گوش دادن روی همهٔ اینترفیس‌ها)
+      # - OLLAMA_HOST=0.0.0.0:11434
+
+      # (معمولاً نیازی به تغییر ندارید) اگر بخواهید لاگ‌لِول را کم/زیاد کنید:
+      # - OLLAMA_LOG_LEVEL=info
+
+      # نمونه (پیش‌فرض): فقط bind به loopback
+      - OLLAMA_HOST=0.0.0.0:11434
+
+    # Healthcheck ساده (پینگ به root endpoint) — اگر Ollama endpoint متفاوت داشت،
+    # می‌توانید مسیر را تغییر دهید. این چک به docker اجازه می‌دهد تا وضعیت سرویس را بداند.
+    healthcheck:
+      test: ["CMD-SHELL", "curl -sS --fail http://127.0.0.1:11434/ || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 6
+      start_period: 10s
+
+    # محدودیت‌های منابع (اختیاری) — برای کنترل مصرف CPU/RAM
+    # deploy:
+    #   resources:
+    #     limits:
+    #       cpus: "2.0"
+    #       memory: 8G
+
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "50m"
+        max-file: "3"
+
+volumes:
+  # volume برای نگهداری مدل‌ها و config Ollama (توصیه می‌شود)
+  ollama_data:
+    driver: local
