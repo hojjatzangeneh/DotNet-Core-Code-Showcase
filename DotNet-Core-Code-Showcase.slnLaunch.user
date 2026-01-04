@@ -3,14 +3,14 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "RabbitMQ\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj",
+        "Path": "GRPC\\GRPC_Server\\GRPC_Server.csproj",
         "Action": "Start",
-        "DebugTarget": "RabbitMQ_Consumer"
+        "DebugTarget": "https"
       },
       {
-        "Path": "RabbitMQ\\RabbitMQ_Producer\\RabbitMQ_Producer.csproj",
+        "Path": "GRPC\\GRPC_Client\\GRPC_Client.csproj",
         "Action": "Start",
-        "DebugTarget": "RabbitMQ_Producer"
+        "DebugTarget": "GRPC_Client"
       }
     ]
   }

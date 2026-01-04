@@ -11,6 +11,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\GRPC\GRPC_Server\GRPC_Server.csproj" />
     <ProjectReference Include="..\..\..\RateLimiting\RateLimiting\RateLimiting.csproj" />
     <ProjectReference Include="..\AspireApp.ApiService\AspireApp.ApiService.csproj" />
     <ProjectReference Include="..\AspireApp.Web\AspireApp.Web.csproj" />

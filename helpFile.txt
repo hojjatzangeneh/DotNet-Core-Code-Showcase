@@ -3,3 +3,5 @@ net start winnat
 
 net stop hns
 net start hns
+
+ENV ASPNETCORE_URLS=http://+:8080

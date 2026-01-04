@@ -11,4 +11,6 @@ builder.AddProject<Projects.AspireApp_Web>("webfrontend")
 
 builder.AddProject<Projects.RateLimiting>("ratelimiting");
 
+builder.AddProject<Projects.GRPC_Server>("grpc-server");
+
 builder.Build().Run();
