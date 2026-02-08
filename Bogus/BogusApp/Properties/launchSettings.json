@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BogusApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
