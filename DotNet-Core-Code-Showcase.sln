@@ -130,6 +130,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bogus", "Bogus", "{42A2CEE9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BogusApp", "Bogus\BogusApp\BogusApp.csproj", "{3D9B00FD-1DD1-4CC6-AA19-947B1E78D4CE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FluentScheduler", "FluentScheduler", "{C9BE6A62-B9D1-4ADD-A6CD-25803972AE81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentSchedulerApp", "FluentScheduler\FluentSchedulerApp\FluentSchedulerApp.csproj", "{CEADB0A7-01B7-42CA-87BD-C68BC83A2161}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -280,6 +284,10 @@ Global
 		{3D9B00FD-1DD1-4CC6-AA19-947B1E78D4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D9B00FD-1DD1-4CC6-AA19-947B1E78D4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D9B00FD-1DD1-4CC6-AA19-947B1E78D4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEADB0A7-01B7-42CA-87BD-C68BC83A2161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEADB0A7-01B7-42CA-87BD-C68BC83A2161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEADB0A7-01B7-42CA-87BD-C68BC83A2161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEADB0A7-01B7-42CA-87BD-C68BC83A2161}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -321,6 +329,7 @@ Global
 		{AFE5F263-501A-3E8B-90EE-B6416B47A161} = {2A28B1D2-27B4-4D33-8766-189395F64521}
 		{AF8489F1-1868-400A-8178-D656793F5496} = {2A28B1D2-27B4-4D33-8766-189395F64521}
 		{3D9B00FD-1DD1-4CC6-AA19-947B1E78D4CE} = {42A2CEE9-30A1-4968-8F89-61B96096DD13}
+		{CEADB0A7-01B7-42CA-87BD-C68BC83A2161} = {C9BE6A62-B9D1-4ADD-A6CD-25803972AE81}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C594C7BA-2C79-4B38-90BC-9BFA64F5783B}
