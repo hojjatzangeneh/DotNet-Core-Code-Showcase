@@ -1,0 +1,51 @@
+﻿-- =====================================
+-- 1️⃣ DBCC CHECKDB
+-- بررسی صحت و یکپارچگی کل دیتابیس
+DBCC CHECKDB('DatabaseName') WITH NO_INFOMSGS, ALL_ERRORMSGS;
+
+-- =====================================
+-- 2️⃣ DBCC CHECKTABLE
+-- بررسی صحت یک جدول مشخص
+DBCC CHECKTABLE('TableName') WITH NO_INFOMSGS, ALL_ERRORMSGS;
+
+-- =====================================
+-- 3️⃣ DBCC CHECKALLOC
+-- بررسی Allocation صفحات دیتابیس
+DBCC CHECKALLOC('DatabaseName');
+
+-- =====================================
+-- 4️⃣ DBCC SQLPERF(LOGSPACE)
+-- مشاهده فضای مصرفی Transaction Log
+DBCC SQLPERF(LOGSPACE);
+
+-- =====================================
+-- 5️⃣ DBCC SHRINKDATABASE
+-- کاهش حجم دیتابیس
+DBCC SHRINKDATABASE('DatabaseName');
+
+-- =====================================
+-- 6️⃣ DBCC SHRINKFILE
+-- کاهش حجم یک فایل خاص (Data یا Log)
+DBCC SHRINKFILE('FileName', TargetSizeInMB);
+
+-- =====================================
+-- 7️⃣ DBCC FREEPROCCACHE
+-- پاکسازی Query Plan Cache
+DBCC FREEPROCCACHE;
+
+-- =====================================
+-- 8️⃣ DBCC DROPCLEANBUFFERS
+-- پاکسازی Buffer Cache (Memory)
+DBCC DROPCLEANBUFFERS;
+
+-- =====================================
+-- 9️⃣ DBCC CHECKCATALOG
+-- بررسی یکپارچگی Metadata دیتابیس
+DBCC CHECKCATALOG('DatabaseName');
+
+-- =====================================
+-- 🔹 نکات مهم:
+-- 1. DBCC CHECKDB و CHECKTABLE را در زمان کمترین Load اجرا کنید.
+-- 2. برای دیتابیس‌های بزرگ، Command Timeout طولانی یا صفر نیاز است.
+-- 3. SHRINKDATABASE و SHRINKFILE فقط زمانی استفاده شود که واقعاً نیاز است.
+-- 4. FREEPROCCACHE و DROPCLEANBUFFERS روی Performance تاثیر می‌گذارد.
