@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "QuartzDotNET": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

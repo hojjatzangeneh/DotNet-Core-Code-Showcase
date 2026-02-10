@@ -134,6 +134,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FluentScheduler", "FluentSc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentSchedulerApp", "FluentScheduler\FluentSchedulerApp\FluentSchedulerApp.csproj", "{CEADB0A7-01B7-42CA-87BD-C68BC83A2161}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QuartzDotNET", "QuartzDotNET", "{8E852555-55D9-4577-B1DC-D522E25C0BC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzDotNET", "QuartzDotNET\QuartzDotNET\QuartzDotNET.csproj", "{B2B41421-D7BE-4647-829E-DBC2D3B349F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -288,6 +292,10 @@ Global
 		{CEADB0A7-01B7-42CA-87BD-C68BC83A2161}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEADB0A7-01B7-42CA-87BD-C68BC83A2161}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEADB0A7-01B7-42CA-87BD-C68BC83A2161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B41421-D7BE-4647-829E-DBC2D3B349F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B41421-D7BE-4647-829E-DBC2D3B349F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B41421-D7BE-4647-829E-DBC2D3B349F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B41421-D7BE-4647-829E-DBC2D3B349F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -330,6 +338,7 @@ Global
 		{AF8489F1-1868-400A-8178-D656793F5496} = {2A28B1D2-27B4-4D33-8766-189395F64521}
 		{3D9B00FD-1DD1-4CC6-AA19-947B1E78D4CE} = {42A2CEE9-30A1-4968-8F89-61B96096DD13}
 		{CEADB0A7-01B7-42CA-87BD-C68BC83A2161} = {C9BE6A62-B9D1-4ADD-A6CD-25803972AE81}
+		{B2B41421-D7BE-4647-829E-DBC2D3B349F0} = {8E852555-55D9-4577-B1DC-D522E25C0BC4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C594C7BA-2C79-4B38-90BC-9BFA64F5783B}
